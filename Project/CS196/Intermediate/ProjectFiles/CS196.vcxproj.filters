@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CS196.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{39F6FECB-96C9-4BE6-AF5F-F0AD2F734B11}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CS196.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CS196Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D8E01DE9-EB35-4698-8922-DC0FFF66EA19}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CS196">
+      <UniqueIdentifier>{C7726E24-9A6D-4E9C-BEA9-55FC473C0E07}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CS196\CS196.Build.cs">
+      <Filter>Source\CS196</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CS196\CS196.cpp">
+      <Filter>Source\CS196</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS196\CS196.h">
+      <Filter>Source\CS196</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CS196\CS196GameModeBase.cpp">
+      <Filter>Source\CS196</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CS196\CS196GameModeBase.h">
+      <Filter>Source\CS196</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

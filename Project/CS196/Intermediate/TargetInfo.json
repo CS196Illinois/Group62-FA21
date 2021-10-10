@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CS196",
+			"Path": "C:\\Users\\Roryn\\Documents\\GitHub\\Group62-FA21\\Project\\CS196\\Source\\CS196.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CS196Editor",
+			"Path": "C:\\Users\\Roryn\\Documents\\GitHub\\Group62-FA21\\Project\\CS196\\Source\\CS196Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+*.sln filter=lfs diff=lfs merge=lfs -text
+*.vs filter=lfs diff=lfs merge=lfs -text

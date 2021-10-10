@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CS196.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\CS196Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\CS196.cpp.obj"
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\CS196GameModeBase.cpp.obj"
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\CS196.init.gen.cpp.obj"
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\CS196GameModeBase.gen.cpp.obj"
+"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\Default.rc2.res"
+/OUT:"C:\Users\Roryn\Documents\GitHub\Group62-FA21\Project\CS196\Intermediate\Build\Win64\UE4Editor\Development\CS196\UE4Editor-CS196.lib"
