@@ -1183,3 +1183,875 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.12-20.13.44:442][411]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/PauseMenu.PauseMenu
 [2021.10.12-20.13.44:442][411]LogContentValidation: Display: Validating Texture2D /Game/HomeScreen/MainMenuBGPhoto.MainMenuBGPhoto
 [2021.10.12-20.13.49:069][901]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-20.23.51:452][303]LogEditorTransaction: Undo Move Node
+[2021.10.12-20.23.52:224][328]LogEditorTransaction: Undo Move Node
+[2021.10.12-20.23.52:953][370]LogEditorTransaction: Undo Move Node
+[2021.10.12-20.25.54:064][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.10.12-20.25.54:065][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.052
+[2021.10.12-20.25.54:066][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HomeScreen/MainMenu] ([2] browsable assets)...
+[2021.10.12-20.25.54:066][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomeScreen/MainMenu]
+[2021.10.12-20.25.54:097][ 35]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu_Auto3F996BAD24780701C8FEFB6B4C74BBC2D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/HomeScreen/MainMenu_Auto3.uasset'
+[2021.10.12-20.25.54:098][ 35]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.10.12-20.26.37:086][ 51]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.12-20.27.18:003][352]BlueprintLog: New page: Compile MainMenu
+[2021.10.12-20.27.18:048][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.10.12-20.27.18:988][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-20.27.19:024][402]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuE7AE9E904264392F34BC409E907ECE9E.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-20.27.19:061][402]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-20.27.19:061][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-20.27.32:772][205]MapCheck: New page: Map Check
+[2021.10.12-20.27.32:820][205]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.12-20.27.32:823][205]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.12-20.27.32:827][205]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2021.10.12-20.27.32:852][205]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.12-20.27.32:852][205]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.12-20.27.32:852][205]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.12-20.27.32:893][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.10.12-20.27.33:000][205]LogLevel: Display: Export Material TexCoord Scales took 0.106 seconds.
+[2021.10.12-20.27.33:005][205]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.10.12-20.27.33:036][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.10.12-20.27.33:049][205]LightingResults: New page: Lighting Build - Oct 12, 2021, 10:27:33 AM
+[2021.10.12-20.27.33:112][205]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.12-20.27.33:209][205]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.12-20.27.33:247][205]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.12-20.27.34:296][205]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.12-20.27.34:297][205]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7464
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.12-20.27.41:612][205]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.12-20.27.41:958][205]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.12-20.27.41:959][205]MapCheck: New page: Minimal_Default - Oct 12, 2021, 10:27:41 AM
+[2021.10.12-20.27.41:967][205]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2021.10.12-20.27.41:967][205]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 8.847ms to complete.
+[2021.10.12-20.27.41:971][205]LogEditorBuildUtils: Build time 0:09
+[2021.10.12-20.27.42:606][205]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 27383496550021D28513604758A2F4B1599DF427), compiling. 
+[2021.10.12-20.27.42:624][205]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:626][205]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: A122F8F815C8C18CB4D8A56E1A772593E358D61D), compiling. 
+[2021.10.12-20.27.42:633][205]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.12-20.27.42:633][205]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.12-20.27.42:633][205]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:633][205]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:655][205]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.10.12-20.27.42:655][205]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.10.12-20.27.42:655][205]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:761][205]LogSlate: Took 0.012499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.12-20.27.42:807][206]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_TableRound in PCD3D_SM5, Default, SM5 (DDC key hash: EBF642A0EBB8BBDDC475EB0834FD4EB3A5E6D638), compiling. 
+[2021.10.12-20.27.42:830][206]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:833][206]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.12-20.27.42:833][206]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.12-20.27.42:833][206]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:833][206]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_TableRound in PCD3D_SM5, Default, SM5 (DDC key hash: 2801FE490E589F5544206B51B0D43DF1B52034E7), compiling. 
+[2021.10.12-20.27.42:844][206]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:887][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.10.12-20.27.42:887][206]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.10.12-20.27.42:887][206]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:920][207]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 4A0DF2146A4D4BC44F88DC9C32760949AA3DEECB), compiling. 
+[2021.10.12-20.27.42:931][207]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:934][207]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Chair in PCD3D_SM5, Default, SM5 (DDC key hash: 90608A7D5035696C1BC4B01010BFC47FF3B1C49C), compiling. 
+[2021.10.12-20.27.42:945][207]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:963][208]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 864866920C3B4F0C615CDE92FC3004C00EB88F01), compiling. 
+[2021.10.12-20.27.42:974][208]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.42:978][208]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: B8A52B866322AC9A7DA4AF13C5AA125D54C18F4E), compiling. 
+[2021.10.12-20.27.42:990][208]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.43:009][209]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: ED416115DF97FF38384B9874320FDAE970828CE2), compiling. 
+[2021.10.12-20.27.43:021][209]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.43:024][209]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: 9227834D39EC93E6539A0FD6FC6DB4962D448C9A), compiling. 
+[2021.10.12-20.27.43:035][209]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 7 distinct outputs (35.00%)
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.10.12-20.27.45:571][211]LogShaderCompilers: Display: ================================================
+[2021.10.12-20.27.46:007][222]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2021.10.12-20.27.48:728][317]Job is a success!
+[2021.10.12-20.27.48:981][318]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.030s
+[2021.10.12-20.27.48:981][318]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.12-20.27.48:981][318]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.12-20.27.48:982][318]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2021.10.12-20.27.49:108][318]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2021.10.12-20.27.49:108][318]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2021.10.12-20.27.49:108][318]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.10.12-20.27.49:108][318]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.10.12-20.27.49:108][318]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.10.12-20.27.49:142][318]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2021.10.12-20.27.49:262][318]Lightmass on DESKTOP-MLIJEB5: 1.89 sec total, 327 ms importing, 36 ms setup, 241 ms photons, 1.24 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 13.6 sec total, 2.76 sec processing.
+[2021.10.12-20.27.49:262][318]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.10.12-20.27.49:333][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.10.12-20.27.49:415][318]LogStaticLightingSystem: Illumination: 16.2 sec (64 ms encoding lightmaps, 85 ms encoding shadowmaps)
+[2021.10.12-20.27.49:415][318]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.10.12-20.27.49:415][318]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.12-20.27.49:619][318]DumpUnbuiltLightIteractions
+[2021.10.12-20.27.49:619][318]Lights with unbuilt interactions: 0
+[2021.10.12-20.27.49:619][318]
+[2021.10.12-20.27.49:619][318]Primitives with unbuilt interactions: 0
+[2021.10.12-20.27.49:750][318]LogTexture: Display: Building textures: NewReflectionComponentTexture9D7E307A4F988F0EA403128FB6A1B70B (BGRA8, 128X128)
+[2021.10.12-20.27.49:829][319]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.12-20.27.49:830][319]MapCheck: New page: Minimal_Default - Oct 12, 2021, 10:27:49 AM
+[2021.10.12-20.27.49:830][319]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2021.10.12-20.27.49:830][319]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.759ms to complete.
+[2021.10.12-20.28.17:062][922]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Shared/Editor/MapErrorsindex.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2021.10.12-20.28.57:446][742]LogSlate: Window 'Message Log' being destroyed
+[2021.10.12-20.28.57:459][742]LogSlate: Window 'Message Log' being destroyed
+[2021.10.12-20.28.58:666][813]MapCheck: New page: Map Check
+[2021.10.12-20.28.58:690][813]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.12-20.28.58:690][813]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.12-20.28.58:691][813]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2021.10.12-20.28.58:713][813]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.12-20.28.58:713][813]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.12-20.28.58:713][813]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.12-20.28.58:758][813]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.10.12-20.28.58:768][813]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2021.10.12-20.28.58:773][813]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.10.12-20.28.58:812][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.10.12-20.28.58:816][813]LightingResults: New page: Lighting Build - Oct 12, 2021, 10:28:58 AM
+[2021.10.12-20.28.58:825][813]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.12-20.28.58:828][813]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.12-20.28.58:828][813]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.12-20.28.58:828][813]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.12-20.28.58:828][813]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7464
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.12-20.29.03:424][813]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.12-20.29.03:504][813]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.12-20.29.03:504][813]MapCheck: New page: Minimal_Default - Oct 12, 2021, 10:29:03 AM
+[2021.10.12-20.29.03:504][813]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2021.10.12-20.29.03:504][813]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.653ms to complete.
+[2021.10.12-20.29.03:508][813]LogEditorBuildUtils: Build time 0:04
+[2021.10.12-20.29.04:101][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.10.12-20.29.06:497][899]Job is a success!
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.12-20.29.06:694][900]LogVolumetricLightmapImport:          Minimal_Default 			 6 bricks 	 100.0% (Persistent Level)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.10.12-20.29.06:838][900]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2021.10.12-20.29.06:838][900]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.10.12-20.29.06:852][900]Lightmass on DESKTOP-MLIJEB5: 1.79 sec total, 279 ms importing, 34 ms setup, 247 ms photons, 1.19 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 13.1 sec total, 2.77 sec processing.
+[2021.10.12-20.29.06:902][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.10.12-20.29.07:039][900]LogStaticLightingSystem: Illumination: 8.09 sec (59 ms encoding lightmaps, 63 ms encoding shadowmaps)
+[2021.10.12-20.29.07:039][900]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.10.12-20.29.07:039][900]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.10.12-20.29.07:428][900]DumpUnbuiltLightIteractions
+[2021.10.12-20.29.07:428][900]Lights with unbuilt interactions: 0
+[2021.10.12-20.29.07:428][900]
+[2021.10.12-20.29.07:428][900]Primitives with unbuilt interactions: 0
+[2021.10.12-20.29.07:548][900]LogTexture: Display: Building textures: NewReflectionComponentTexture9D7E307A4F988F0EA403128FB6A1B70B (BGRA8, 128X128)
+[2021.10.12-20.29.07:630][901]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.12-20.29.07:630][901]MapCheck: New page: Minimal_Default - Oct 12, 2021, 10:29:07 AM
+[2021.10.12-20.29.07:631][901]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2021.10.12-20.29.07:631][901]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.736ms to complete.
+[2021.10.12-20.29.20:307][629]LogSlate: Window 'Message Log' being destroyed
+[2021.10.12-20.29.20:319][629]LogSlate: Window 'Message Log' being destroyed
+[2021.10.12-20.29.29:574][148]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.12-20.29.29:615][148]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.12-20.29.29:616][148]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2021.10.12-20.29.29:660][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.10.12-20.29.29:661][148]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2021.10.12-20.29.29:661][148]PIE: New page: PIE session: Minimal_Default (Oct 12, 2021, 10:29:29 AM)
+[2021.10.12-20.29.29:664][148]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.12-20.29.29:666][148]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.12-20.29.29:667][148]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.10.12-20.29.29:672][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005483s)
+[2021.10.12-20.29.29:674][148]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-20.29.29:674][148]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2021.10.12-20.29.29:674][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007592s)
+[2021.10.12-20.29.29:715][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.10.12-20.29.29:717][148]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.12-20.29.29:718][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.12-20.29.29:718][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.12-20.29.29:718][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.12-20.29.29:718][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.12-20.29.29:718][148]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.12-20.29.29:726][148]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-20.29.29:726][148]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-20.29.29:747][148]LogAudioMixer: Display: Using Audio Device Headphones (Apple Audio Device)
+[2021.10.12-20.29.29:748][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.12-20.29.29:748][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.12-20.29.29:748][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.12-20.29.29:748][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.12-20.29.29:748][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.12-20.29.29:748][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.12-20.29.29:750][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.12-20.29.29:750][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.12-20.29.29:750][148]LogInit: FAudioDevice initialized.
+[2021.10.12-20.29.29:750][148]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.10.12-20.29.29:770][148]LogLoad: Game class is 'GameModeBase'
+[2021.10.12-20.29.29:772][148]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.10.12-15.29.29
+[2021.10.12-20.29.29:773][148]LogWorld: Bringing up level for play took: 0.001148
+[2021.10.12-20.29.29:773][148]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.10.12-20.29.29:783][148]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2021.10.12-20.29.29:787][148]PIE: Server logged in
+[2021.10.12-20.29.29:790][148]PIE: Play in editor total start time 0.208 seconds.
+[2021.10.12-20.30.07:493][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-20.30.07:494][859]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.10.12-20.30.07:494][859]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-20.30.07:494][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.30.07:510][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.12-20.30.07:565][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.30.07:606][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-20.30.07:624][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-20.30.07:626][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-20.30.07:689][859]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2021.10.12-20.30.07:752][860]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.10.12-20.30.19:139][507]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.12-20.30.19:149][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.12-20.30.19:149][507]PIE: New page: PIE session: Minimal_Default (Oct 12, 2021, 10:30:19 AM)
+[2021.10.12-20.30.19:149][507]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.10.12-20.30.19:154][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004906s)
+[2021.10.12-20.30.19:155][507]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-20.30.19:156][507]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2021.10.12-20.30.19:156][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006793s)
+[2021.10.12-20.30.19:238][507]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2021.10.12-20.30.19:241][507]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.12-20.30.19:241][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.12-20.30.19:241][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.12-20.30.19:242][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.12-20.30.19:242][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.12-20.30.19:242][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.12-20.30.19:242][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.12-20.30.19:249][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-20.30.19:249][507]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-20.30.19:268][507]LogAudioMixer: Display: Using Audio Device Headphones (Apple Audio Device)
+[2021.10.12-20.30.19:268][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.12-20.30.19:268][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.12-20.30.19:268][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.12-20.30.19:270][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.12-20.30.19:270][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.12-20.30.19:270][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.12-20.30.19:272][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.12-20.30.19:272][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.12-20.30.19:272][507]LogInit: FAudioDevice initialized.
+[2021.10.12-20.30.19:272][507]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2021.10.12-20.30.19:283][507]LogLoad: Game class is 'GameModeBase'
+[2021.10.12-20.30.19:285][507]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2021.10.12-15.30.19
+[2021.10.12-20.30.19:285][507]LogWorld: Bringing up level for play took: 0.001055
+[2021.10.12-20.30.19:285][507]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.12-20.30.19:289][507]PIE: Server logged in
+[2021.10.12-20.30.19:290][507]PIE: Play in editor total start time 0.142 seconds.
+[2021.10.12-20.30.25:973][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-20.30.25:973][899]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.10.12-20.30.25:973][899]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-20.30.25:973][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.30.25:986][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.12-20.30.26:032][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.30.26:070][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.12-20.30.26:070][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-20.30.26:072][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.12-20.30.26:081][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.10.12-20.30.26:135][900]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.12-20.30.30:947][166]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.10.12-20.30.34:616][166]LogSlate: Window 'Save Content' being destroyed
+[2021.10.12-20.30.34:725][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.10.12-20.30.34:747][166]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default1060C6514E436B954A12B18A3A3F73A5.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-20.30.34:756][166]LogFileHelpers: Saving map 'Minimal_Default' took 0.080
+[2021.10.12-20.30.34:803][166]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default_BuiltDataE5BBFCD44FD9866CDFC3DDB4DDDE5D68.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.10.12-20.30.34:848][167]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-20.30.34:848][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MobileStarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.10.12-20.30.34:848][167]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-20.30.44:832][399]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.10.12-20.40.31:034][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.10.12-20.40.31:042][206]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.056
+[2021.10.12-20.40.31:043][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HomeScreen/MainMenu] ([2] browsable assets)...
+[2021.10.12-20.40.31:043][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/HomeScreen/MainMenu]
+[2021.10.12-20.40.31:086][206]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu_Auto4085137A24A7B898449F2379481D8B6FA.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/HomeScreen/MainMenu_Auto4.uasset'
+[2021.10.12-20.40.31:087][206]LogFileHelpers: Auto-saving content packages took 0.045
+[2021.10.12-20.42.34:620][126]LogEditorTransaction: Undo Create Pin Link
+[2021.10.12-20.42.35:417][149]LogEditorTransaction: Undo Create Pin Link
+[2021.10.12-20.47.45:161][971]BlueprintLog: New page: Compile MainMenu
+[2021.10.12-20.47.45:226][971]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2021.10.12-20.47.46:027][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-20.47.46:073][ 11]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu59AED36141E58BE50879118111DBDD3C.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-20.47.46:099][ 11]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-20.47.46:099][ 11]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-20.47.57:533][206]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-20.47.57:552][206]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-20.47.57:556][206]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-20.47.57:557][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.47.57:568][206]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-20.47.57:568][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-20.48.00:289][345]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.10.12-20.50.51:722][220]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2021.10.12-20.50.51:752][220]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default_Auto5C4699A0A495A00B0F8E5CCB88AE834C0.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto5.umap'
+[2021.10.12-20.50.51:754][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.133
+[2021.10.12-20.50.51:754][220]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2021.10.12-20.52.18:297][408]Cmd: TRANSACTION UNDO
+[2021.10.12-20.52.18:297][408]LogEditorTransaction: Undo Add Node
+[2021.10.12-20.53.21:209][125]BlueprintLog: New page: Compile Minimal_Default
+[2021.10.12-20.53.21:340][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.10.12-20.53.23:280][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.10.12-20.53.23:307][232]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default1BE01CA54B1EDF2CB7173F8550A71361.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-20.53.23:316][232]LogFileHelpers: Saving map 'Minimal_Default' took 0.069
+[2021.10.12-20.53.23:343][232]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-20.53.23:343][232]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-21.10.54:939][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.10.12-21.10.54:968][697]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default94EA970144B72630E5D1B18E78E7B9F5.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-21.10.54:977][697]LogFileHelpers: Saving map 'Minimal_Default' took 0.078
+[2021.10.12-21.10.54:998][697]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-21.10.54:999][697]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-21.11.46:242][612]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.10.12-21.12.09:238][344]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.10.12-21.13.02:897][777]Cmd: TRANSACTION UNDO
+[2021.10.12-21.13.02:897][777]LogEditorTransaction: Undo Create Actors
+[2021.10.12-21.13.45:445][744]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.12-21.13.45:467][744]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.10.12-21.13.45:485][744]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.10.12-21.13.54:826][745]LogContentBrowser: Attempting asset rename: NewBlueprint -> BeginGame
+[2021.10.12-21.13.54:833][745]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.10.12-21.14.19:405][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MobileStarterContent/Blueprints/BeginGame.BeginGame
+[2021.10.12-21.14.20:180][ 58]LogRenderer: Reallocating scene render targets to support 964x780 Format 10 NumSamples 1 (Frame:1).
+[2021.10.12-21.17.21:959][169]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.12-21.20.21:291][402]LogEditorTransaction: Undo Add Node
+[2021.10.12-21.20.55:293][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.10.12-21.20.55:323][870]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default_Auto624FC393C4D713D7049FBD2B6BAE7CD73.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto6.umap'
+[2021.10.12-21.20.55:325][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.080
+[2021.10.12-21.20.55:325][870]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2021.10.12-21.25.45:452][966]LogSlate: Window 'BeginGame' being destroyed
+[2021.10.12-21.25.45:470][966]LogSlate: Window 'BeginGame' being destroyed
+[2021.10.12-21.25.45:476][966]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.25.45:476][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.25.45:561][966]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.25.45:561][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.25.48:709][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.10.12-21.26.07:676][173]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.12-21.26.09:281][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MobileStarterContent/Blueprints/BeginGame.BeginGame
+[2021.10.12-21.26.13:269][541]LogSlate: Window 'BeginGame' being destroyed
+[2021.10.12-21.26.13:296][541]LogSlate: Window 'BeginGame' being destroyed
+[2021.10.12-21.26.13:300][541]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.26.13:300][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.26.15:249][723]LogEditorViewport: Clicking on Actor (LMB): BeginGame_C (BeginGame)
+[2021.10.12-21.26.15:788][776]LogEditorViewport: Clicking on Actor (context menu): BeginGame_C (BeginGame)
+[2021.10.12-21.26.29:479][878]LogEditorViewport: Clicking on Actor (context menu): BeginGame_C (BeginGame)
+[2021.10.12-21.26.45:001][279]LogEditorViewport: Clicking on Actor (context menu): BeginGame_C (BeginGame)
+[2021.10.12-21.26.51:555][800]Cmd: DELETE
+[2021.10.12-21.26.51:555][800]Cmd: ACTOR DELETE
+[2021.10.12-21.26.51:568][800]LogEditorActor: Deleted Actor: BeginGame_C
+[2021.10.12-21.26.51:606][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.10.12-21.26.51:614][800]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2021.10.12-21.26.55:312][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.10.12-21.26.57:900][130]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.12-21.26.57:968][130]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MobileStarterContent/Blueprints/BeginGame.BeginGame
+[2021.10.12-21.26.59:463][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.10.12-21.30.55:760][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.10.12-21.30.55:790][ 66]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default_Auto7B57AAB63416620A4DC5330AEC5230D85.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto7.umap'
+[2021.10.12-21.30.55:803][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.079
+[2021.10.12-21.30.55:803][ 66]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2021.10.12-21.38.36:233][440]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.12-21.38.36:251][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-21.38.36:251][440]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-21.41.58:023][450]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.12-21.41.58:340][450]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.12-21.41.58:340][450]LogAudioMixer: Display: 1: FrontRight
+[2021.10.12-21.41.58:826][453]LogHttp: Warning: 00000278B38AC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B69E4F879-4358-7A01-3B97-70AC5DE54E0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=f03d36d841e820381eddc98e0883f50e%7Cfa884e46599347bf93991e161b1ae3dd%7C1fec008f-4b7a-4af2-85b3-d38b3747d6f6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.10.12-21.41.58:835][453]LogHttp: Warning: 00000278B38AC100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x278835e3eb0 [can pipeline])
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.231.246.124) port 443 (#1))
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.10.12-21.41.58:836][453]LogHttp: Warning: 00000278B38AC100: libcurl info message cache 7 (Closing connection 1)
+[2021.10.12-21.41.59:156][454]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B69E4F879-4358-7A01-3B97-70AC5DE54E0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=f03d36d841e820381eddc98e0883f50e%7Cfa884e46599347bf93991e161b1ae3dd%7C1fec008f-4b7a-4af2-85b3-d38b3747d6f6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.12-21.53.14:490][ 12]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: 75EB69C1ECED8A1477EF3BB30FB7A2337B3D5DBD), compiling. 
+[2021.10.12-21.53.14:619][ 12]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.10.12-21.53.14:753][ 12]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.10.12-21.53.14:753][ 12]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.10.12-21.53.14:754][ 12]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.10.12-21.53.14:777][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MobileStarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight
+[2021.10.12-21.53.16:842][ 13]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-21.53.16:842][ 13]LogShaderCompilers: Display: Total job queries 45, among them cache hits 0 (0.00%)
+[2021.10.12-21.53.16:842][ 13]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 8 distinct outputs (38.10%)
+[2021.10.12-21.53.16:842][ 13]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.10.12-21.53.16:843][ 13]LogShaderCompilers: Display: ================================================
+[2021.10.12-21.53.28:521][847]LogSlate: Window 'Blueprint_CeilingLight' being destroyed
+[2021.10.12-21.53.28:542][847]LogSlate: Window 'Blueprint_CeilingLight' being destroyed
+[2021.10.12-21.53.28:547][847]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.53.28:547][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.53.37:179][732]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-21.54.04:831][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-21.54.04:879][979]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuB784790C4FA6096C1586ABA8778FFC8C.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-21.54.04:901][979]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-21.54.04:902][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-21.54.31:044][378]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-21.54.31:060][378]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-21.54.31:066][378]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.54.31:066][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.54.31:075][378]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.54.31:075][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.54.36:112][881]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-21.54.36:164][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.10.12-21.54.38:958][881]LogSlate: Window 'Save Content' being destroyed
+[2021.10.12-21.54.39:051][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.10.12-21.54.39:077][881]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default6DF25557454F13C70BDDBEB94D1056F8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-21.54.39:086][881]LogFileHelpers: Saving map 'Minimal_Default' took 0.070
+[2021.10.12-21.54.39:122][882]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-21.54.39:122][882]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-21.55.14:283][352]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-21.55.57:594][420]BlueprintLog: New page: Compile MainMenu
+[2021.10.12-21.55.57:646][420]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.10.12-21.55.59:159][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-21.55.59:204][509]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu52DBF6FB481A545D565647BB92860B4B.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-21.55.59:232][509]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-21.55.59:232][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-21.56.08:489][146]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-21.56.08:504][146]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-21.56.08:509][146]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.56.08:509][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.56.08:518][146]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-21.56.08:518][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-21.56.11:800][480]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-21.56.11:849][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.10.12-21.57.06:226][851]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-21.57.14:604][344]BlueprintLog: New page: Compile MainMenu
+[2021.10.12-21.57.14:664][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.10.12-21.57.15:476][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-21.57.15:520][385]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu761717CF49F7F69ED9C58EA24281007E.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-21.57.15:547][385]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-21.57.15:547][385]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-22.03.27:119][412]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.03.27:143][412]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.03.27:149][412]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.03.27:150][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.03.27:162][412]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.03.27:162][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.03.30:056][672]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.10.12-22.03.58:996][ 96]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2021.10.12-22.04.36:707][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.10.12-22.04.36:741][125]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default_Auto8569628DC46B559FCADAC3F90BD626A8A.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/MobileStarterContent/Maps/Minimal_Default_Auto8.umap'
+[2021.10.12-22.04.36:743][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MobileStarterContent/Maps/Minimal_Default' took 0.086
+[2021.10.12-22.04.36:743][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2021.10.12-22.05.09:068][ 98]LogEditorTransaction: Undo Break Node Links
+[2021.10.12-22.08.51:207][151]BlueprintLog: New page: Compile Minimal_Default
+[2021.10.12-22.08.51:270][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.10.12-22.08.56:279][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.08.56:306][554]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default1A046A254B86C5682338B7AB423B0C11.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-22.08.56:316][554]LogFileHelpers: Saving map 'Minimal_Default' took 0.070
+[2021.10.12-22.08.56:339][554]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-22.08.56:339][554]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.09.02:003][116]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-22.09.02:046][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.10.12-22.10.21:187][446]BlueprintLog: New page: Compile Minimal_Default
+[2021.10.12-22.10.21:247][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.10.12-22.10.22:152][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.10.22:178][509]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_DefaultE98FE3BA474DB7021C6DC5AC9EFFA32D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-22.10.22:186][509]LogFileHelpers: Saving map 'Minimal_Default' took 0.068
+[2021.10.12-22.10.22:210][509]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-22.10.22:210][509]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.11.13:333][307]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.10.12-22.11.13:352][307]LogContentBrowser: Creating deferred item: NewWorld
+[2021.10.12-22.11.21:464][280]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuMap
+[2021.10.12-22.11.21:473][280]LogContentBrowser: End creating deferred item NewWorld
+[2021.10.12-22.12.01:460][821]BlueprintLog: New page: Compile Minimal_Default
+[2021.10.12-22.12.01:525][821]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.10.12-22.12.02:327][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.12.02:353][874]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default26A808C04D09E6D277973AB764327731.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-22.12.02:362][874]LogFileHelpers: Saving map 'Minimal_Default' took 0.069
+[2021.10.12-22.12.02:386][874]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-22.12.02:386][874]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.12.03:906][  6]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.12.03:922][  6]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.12.03:928][  6]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.12.03:928][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.12.10:434][666]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-22.12.10:478][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.10.12-22.12.12:125][666]LogSlate: Window 'Save Content' being destroyed
+[2021.10.12-22.12.12:227][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.10.12-22.12.12:230][666]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap637D80EF4FCC33BA0DF0569858161EB3.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap'
+[2021.10.12-22.12.12:232][666]LogFileHelpers: Saving map 'MainMenuMap' took 0.039
+[2021.10.12-22.12.12:271][667]AssetCheck: New page: Asset Save: MainMenuMap
+[2021.10.12-22.12.12:271][667]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.12.40:329][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.10.12-22.12.40:386][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.12.40:387][ 86]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.12.40:388][ 86]LightingResults: New page: Lighting Build
+[2021.10.12-22.12.40:388][ 86]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.10.12-22.12.40:441][ 86]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.12.40:441][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.12.40:441][ 86]MapCheck: New page: Map Check
+[2021.10.12-22.12.40:441][ 86]LightingResults: New page: Lighting Build
+[2021.10.12-22.12.40:470][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.12.40:485][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.10.12-22.12.40:524][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.10.12-22.12.40:559][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.10.12-22.12.40:644][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.12-22.12.40:647][ 86]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-22.12.40:652][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.12.40:690][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.10.12-22.12.40:697][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.12.40:697][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2021.10.12-22.12.40:697][ 86]LogFileHelpers: Loading map 'Minimal_Default' took 0.310
+[2021.10.12-22.12.42:846][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.10.12-22.12.42:888][294]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.12.42:888][294]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.12.42:889][294]LightingResults: New page: Lighting Build
+[2021.10.12-22.12.42:889][294]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.10.12-22.12.42:931][294]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.12.42:931][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.12.42:931][294]MapCheck: New page: Map Check
+[2021.10.12-22.12.42:931][294]LightingResults: New page: Lighting Build
+[2021.10.12-22.12.42:960][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.12.42:965][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.10.12-22.12.42:966][294]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.10.12-22.12.42:968][294]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.12.42:968][294]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.10.12-22.12.43:002][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.10.12-22.12.43:009][294]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.12.43:009][294]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2021.10.12-22.12.43:009][294]LogFileHelpers: Loading map 'MainMenuMap' took 0.121
+[2021.10.12-22.12.50:622][998]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-22.12.59:242][529]BlueprintLog: New page: Compile MainMenu
+[2021.10.12-22.12.59:301][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.10.12-22.13.00:083][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.10.12-22.13.00:129][570]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu40FA6F6043BE27599D9CF48198D2A791.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.10.12-22.13.00:155][570]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.12-22.13.00:155][570]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-22.13.02:779][743]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.13.02:801][743]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.13.02:805][743]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.13.02:806][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.13.02:814][743]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.13.02:815][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.13.04:670][909]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-22.13.04:720][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.10.12-22.13.13:472][230]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.10.12-22.13.43:598][409]MapCheck: New page: Map Check
+[2021.10.12-22.13.43:628][409]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.12-22.13.43:628][409]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.12-22.13.43:628][409]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.12-22.13.43:645][409]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.12-22.13.43:645][409]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.12-22.13.43:645][409]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.12-22.13.43:678][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.10.12-22.13.43:686][409]LightingResults: New page: Lighting Build - Oct 12, 2021, 12:13:43 PM
+[2021.10.12-22.13.43:701][409]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.12-22.13.43:709][409]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.12-22.13.43:709][409]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.12-22.13.43:713][409]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.12-22.13.43:713][409]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7464
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.12-22.13.48:266][409]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.12-22.13.48:340][409]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.12-22.13.48:341][409]MapCheck: New page: MainMenuMap - Oct 12, 2021, 12:13:48 PM
+[2021.10.12-22.13.48:341][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.41ms to complete.
+[2021.10.12-22.13.48:345][409]LogEditorBuildUtils: Build time 0:04
+[2021.10.12-22.13.48:365][409]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.12-22.13.48:365][409]LogShaderCompilers: Display: Total job queries 46, among them cache hits 1 (2.17%)
+[2021.10.12-22.13.48:365][409]LogShaderCompilers: Display: Tracking 45 distinct input hashes that result in 27 distinct outputs (60.00%)
+[2021.10.12-22.13.48:365][409]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2021.10.12-22.13.48:365][409]LogShaderCompilers: Display: ================================================
+[2021.10.12-22.13.48:474][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.10.12-22.13.50:042][467]Job is a success!
+[2021.10.12-22.13.50:250][468]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.10.12-22.13.50:250][468]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.12-22.13.50:251][468]LogVolumetricLightmapImport:          MainMenuMap 			 1 bricks 	 100.0% (Persistent Level)
+[2021.10.12-22.13.50:261][468]Lightmass on DESKTOP-MLIJEB5: 783 ms total, 246 ms importing, 24 ms setup, 43 ms photons, 437 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 4.79 sec total, 0 ms processing.
+[2021.10.12-22.13.50:306][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.13.50:419][468]LogStaticLightingSystem: Illumination: 6.57 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.10.12-22.13.50:419][468]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.10.12-22.13.50:419][468]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.10.12-22.13.51:272][468]DumpUnbuiltLightIteractions
+[2021.10.12-22.13.51:272][468]Lights with unbuilt interactions: 0
+[2021.10.12-22.13.51:272][468]
+[2021.10.12-22.13.51:272][468]Primitives with unbuilt interactions: 0
+[2021.10.12-22.13.51:372][469]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.12-22.13.51:372][469]MapCheck: New page: MainMenuMap - Oct 12, 2021, 12:13:51 PM
+[2021.10.12-22.13.51:372][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.586ms to complete.
+[2021.10.12-22.14.02:761][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.14.07:280][720]LogSlate: Window 'Save Content' being destroyed
+[2021.10.12-22.14.07:370][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.14.07:374][720]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap3BA9C0AB417FAF5D40E703B60A229E4F.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap'
+[2021.10.12-22.14.07:382][720]LogFileHelpers: Saving map 'MainMenuMap' took 0.042
+[2021.10.12-22.14.07:385][720]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap_BuiltData11B42B744AA5445C9F903DABB0AAE1DB.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap_BuiltData.uasset'
+[2021.10.12-22.14.07:458][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.14.07:458][720]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.14.07:458][720]LightingResults: New page: Lighting Build
+[2021.10.12-22.14.07:458][720]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.10.12-22.14.07:460][720]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.14.07:460][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.14.07:460][720]MapCheck: New page: Map Check
+[2021.10.12-22.14.07:460][720]LightingResults: New page: Lighting Build
+[2021.10.12-22.14.07:489][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.14.07:515][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.10.12-22.14.07:515][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.12-22.14.07:518][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.14.07:519][720]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-22.14.07:554][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.10.12-22.14.07:560][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.14.07:560][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.211ms to complete.
+[2021.10.12-22.14.07:560][720]LogFileHelpers: Loading map 'Minimal_Default' took 0.102
+[2021.10.12-22.14.07:602][720]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-22.14.07:602][720]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.14.07:609][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MobileStarterContent/Maps/MainMenuMap_BuiltData.MainMenuMap_BuiltData
+[2021.10.12-22.14.14:600][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.10.12-22.14.14:630][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.14.14:630][422]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.14.14:631][422]LightingResults: New page: Lighting Build
+[2021.10.12-22.14.14:631][422]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.10.12-22.14.14:634][422]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.14.14:634][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.14.14:634][422]MapCheck: New page: Map Check
+[2021.10.12-22.14.14:634][422]LightingResults: New page: Lighting Build
+[2021.10.12-22.14.14:662][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.14.14:673][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.10.12-22.14.14:673][422]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.10.12-22.14.14:675][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.14.14:675][422]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.10.12-22.14.14:709][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.10.12-22.14.14:715][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.14.14:715][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2021.10.12-22.14.14:715][422]LogFileHelpers: Loading map 'MainMenuMap' took 0.085
+[2021.10.12-22.14.21:140][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.10.12-22.14.21:151][ 63]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap65C1DB8C413E050886A7218ECB51DDAD.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap'
+[2021.10.12-22.14.21:163][ 63]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap_BuiltDataC38F16DA4820AED3C4D30BBD46E92AE2.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap_BuiltData.uasset'
+[2021.10.12-22.14.21:185][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-22.14.21:185][ 63]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.14.21:185][ 63]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MobileStarterContent/Maps/MainMenuMap_BuiltData.MainMenuMap_BuiltData
+[2021.10.12-22.14.24:167][365]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-22.14.24:204][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.12-22.14.48:479][950]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.10.12-22.14.56:638][506]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.14.56:662][506]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.14.56:666][506]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.14.56:666][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.04:681][183]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.10.12-22.15.07:777][364]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.15.07:799][364]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.15.07:803][364]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.07:804][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.11:856][734]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.10.12-22.15.18:585][103]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.15.18:613][103]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.12-22.15.18:618][103]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.18:618][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.18:627][103]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.18:627][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.26:951][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.10.12-22.15.27:011][895]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.15.27:011][895]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.15.27:011][895]LightingResults: New page: Lighting Build
+[2021.10.12-22.15.27:011][895]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.10.12-22.15.27:051][895]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.27:051][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.27:052][895]MapCheck: New page: Map Check
+[2021.10.12-22.15.27:052][895]LightingResults: New page: Lighting Build
+[2021.10.12-22.15.27:079][895]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.15.27:093][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.10.12-22.15.27:093][895]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.12-22.15.27:096][895]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.15.27:096][895]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-22.15.27:132][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.12-22.15.27:138][895]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.15.27:139][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2021.10.12-22.15.27:139][895]LogFileHelpers: Loading map 'Minimal_Default' took 0.128
+[2021.10.12-22.15.29:966][130]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.10.12-22.15.45:179][313]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.15.45:198][313]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.15.45:202][313]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.45:202][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.46:689][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.10.12-22.15.46:731][433]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.15.46:732][433]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.15.46:732][433]LightingResults: New page: Lighting Build
+[2021.10.12-22.15.46:732][433]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.10.12-22.15.46:735][433]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.15.46:735][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.15.46:735][433]MapCheck: New page: Map Check
+[2021.10.12-22.15.46:735][433]LightingResults: New page: Lighting Build
+[2021.10.12-22.15.46:764][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.15.46:776][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.10.12-22.15.46:777][433]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.10.12-22.15.46:778][433]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.15.46:779][433]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.10.12-22.15.46:813][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.10.12-22.15.46:820][433]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.15.46:820][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2021.10.12-22.15.46:820][433]LogFileHelpers: Loading map 'MainMenuMap' took 0.088
+[2021.10.12-22.15.49:819][730]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.10.12-22.16.12:350][688]BlueprintLog: New page: Compile MainMenuMap
+[2021.10.12-22.16.12:393][688]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2021.10.12-22.16.13:525][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.10.12-22.16.13:536][770]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap39864DE4417B8F9CF07070B767A4E832.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap'
+[2021.10.12-22.16.13:544][770]LogFileHelpers: Saving map 'MainMenuMap' took 0.057
+[2021.10.12-22.16.13:567][770]AssetCheck: New page: Asset Save: MainMenuMap
+[2021.10.12-22.16.13:567][770]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.16.15:061][908]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.16.15:082][908]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.16.15:086][908]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.15:086][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.17:213][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.10.12-22.16.17:269][108]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.16.17:269][108]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.16.17:269][108]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.17:269][108]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.10.12-22.16.17:311][108]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.17:311][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.17:311][108]MapCheck: New page: Map Check
+[2021.10.12-22.16.17:311][108]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.17:339][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.16.17:353][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.10.12-22.16.17:353][108]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.12-22.16.17:357][108]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.16.17:357][108]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-22.16.17:392][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.10.12-22.16.17:398][108]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.16.17:398][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2021.10.12-22.16.17:399][108]LogFileHelpers: Loading map 'Minimal_Default' took 0.129
+[2021.10.12-22.16.19:900][335]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.10.12-22.16.28:549][910]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.16.28:573][910]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.16.28:577][910]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.28:577][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.32:801][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.10.12-22.16.32:853][304]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.16.32:853][304]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.16.32:853][304]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.32:853][304]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.10.12-22.16.32:892][304]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.32:892][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.32:892][304]MapCheck: New page: Map Check
+[2021.10.12-22.16.32:892][304]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.32:920][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.16.32:933][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.10.12-22.16.32:933][304]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.10.12-22.16.32:935][304]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.16.32:935][304]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.10.12-22.16.32:970][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.10.12-22.16.32:976][304]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.16.32:977][304]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2021.10.12-22.16.32:977][304]LogFileHelpers: Loading map 'MainMenuMap' took 0.124
+[2021.10.12-22.16.35:294][527]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.10.12-22.16.39:764][846]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.16.39:788][846]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.16.39:792][846]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.39:792][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.41:086][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.10.12-22.16.41:160][957]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.16.41:160][957]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.16.41:160][957]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.41:160][957]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2021.10.12-22.16.41:211][957]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.41:211][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.16.41:211][957]MapCheck: New page: Map Check
+[2021.10.12-22.16.41:211][957]LightingResults: New page: Lighting Build
+[2021.10.12-22.16.41:240][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.16.41:253][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.10.12-22.16.41:254][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.10.12-22.16.41:257][957]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.16.41:257][957]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.10.12-22.16.41:293][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.10.12-22.16.41:299][957]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.16.41:300][957]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2021.10.12-22.16.41:300][957]LogFileHelpers: Loading map 'Minimal_Default' took 0.140
+[2021.10.12-22.16.43:367][130]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2021.10.12-22.16.57:262][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.10.12-22.16.57:285][295]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_DefaultA9DB34BF4B3AC81D783E59A5BF5651A8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-22.16.57:294][295]LogFileHelpers: Saving map 'Minimal_Default' took 0.071
+[2021.10.12-22.16.57:315][295]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-22.16.57:316][295]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.16.57:820][334]BlueprintLog: New page: Compile Minimal_Default
+[2021.10.12-22.16.57:875][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.10.12-22.16.58:737][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.10.12-22.16.58:758][389]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Minimal_Default6C066B014D05C212A707F1A7B19866E8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2021.10.12-22.16.58:766][389]LogFileHelpers: Saving map 'Minimal_Default' took 0.062
+[2021.10.12-22.16.58:790][389]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.10.12-22.16.58:790][389]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.10.12-22.16.59:631][474]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.16.59:655][474]LogSlate: Window 'Minimal_Default' being destroyed
+[2021.10.12-22.16.59:659][474]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.16.59:659][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.17.06:083][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.10.12-22.17.06:126][ 58]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.17.06:126][ 58]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.12-22.17.06:126][ 58]LightingResults: New page: Lighting Build
+[2021.10.12-22.17.06:126][ 58]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.10.12-22.17.06:171][ 58]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.17.06:171][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.17.06:171][ 58]MapCheck: New page: Map Check
+[2021.10.12-22.17.06:171][ 58]LightingResults: New page: Lighting Build
+[2021.10.12-22.17.06:200][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.12-22.17.06:213][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.10.12-22.17.06:213][ 58]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.10.12-22.17.06:215][ 58]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.12-22.17.06:215][ 58]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.10.12-22.17.06:250][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.12-22.17.06:256][ 58]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.12-22.17.06:257][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2021.10.12-22.17.06:257][ 58]LogFileHelpers: Loading map 'MainMenuMap' took 0.130
+[2021.10.12-22.17.09:742][386]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.10.12-22.17.13:779][654]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.17.13:796][654]LogSlate: Window 'MainMenuMap' being destroyed
+[2021.10.12-22.17.13:800][654]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.10.12-22.17.13:800][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.12-22.17.15:345][809]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.10.12-22.17.15:391][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.10.12-22.18.01:310][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.10.12-22.18.01:325][997]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMapE35F67884CF4F1C846CEFD8CF8BD68F7.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap.umap'
+[2021.10.12-22.18.01:338][997]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap_BuiltData2D1EE5314968B02B792A00A4879CB39D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MobileStarterContent/Maps/MainMenuMap_BuiltData.uasset'
+[2021.10.12-22.18.01:361][997]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-22.18.01:361][997]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/MainMenuMap.MainMenuMap
+[2021.10.12-22.18.01:362][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MobileStarterContent/Maps/MainMenuMap_BuiltData.MainMenuMap_BuiltData
+[2021.10.12-22.18.18:188][716]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.12-22.19.00:456][400]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
