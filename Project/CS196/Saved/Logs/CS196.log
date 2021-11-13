@@ -1055,3 +1055,265 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.13-23.01.10:757][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
 [2021.11.13-23.01.10:757][239]LogFileHelpers: Loading map 'MainMenuMap' took 0.118
 [2021.11.13-23.01.15:191][479]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/HomeScreen/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2021.11.13-23.14.42:200][256]LogSlate: Took 0.015682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.13-23.14.49:852][686]LogEditorTransaction: Undo Move Widget
+[2021.11.13-23.14.53:022][834]LogEditorTransaction: Undo Add Widget
+[2021.11.13-23.16.08:401][205]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.11.13-23.17.00:647][ 69]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.13-23.17.00:723][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2021.11.13-23.17.03:364][ 69]LogSlate: Window 'Save Content' being destroyed
+[2021.11.13-23.17.03:460][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.17.03:564][ 69]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuAB8D347346C6172E8216AFACD18ABBD5.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.17.03:610][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.11.13-23.17.03:621][ 69]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuMap239A99334F936FFA01E444BB4113EBF5.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenuMap.umap'
+[2021.11.13-23.17.03:631][ 69]LogFileHelpers: Saving map 'MainMenuMap' took 0.065
+[2021.11.13-23.17.03:687][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.13-23.17.03:687][ 70]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.17.03:692][ 70]LogContentValidation: Display: Validating World /Game/HomeScreen/MainMenuMap.MainMenuMap
+[2021.11.13-23.20.13:038][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.20.13:108][891]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuDEB9F5AB4630C5969C720CB19387CD07.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.20.13:134][891]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.20.13:134][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.20.13:855][932]BlueprintLog: New page: Compile MainMenu
+[2021.11.13-23.20.13:968][932]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2021.11.13-23.20.14:186][932]LogSlate: Took 0.012858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.13-23.20.21:977][369]BlueprintLog: New page: Compile MainMenu
+[2021.11.13-23.20.22:057][369]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2021.11.13-23.20.22:991][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.20.23:079][420]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuC4CBCBAC4D9B479F7F976892194F1A5C.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.20.23:105][420]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.20.23:105][420]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.20.30:086][826]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.13-23.20.30:145][826]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2021.11.13-23.21.47:834][266]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.11.13-23.23.38:158][294]BlueprintLog: New page: Compile MainMenu
+[2021.11.13-23.23.38:247][294]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2021.11.13-23.23.39:273][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.23.39:343][349]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu600457F543B76EA01A5BD5AC79ED59EC.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.23.39:370][349]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.23.39:370][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.27.57:183][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.27.57:257][159]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu99EA0D5543A0076CF668E5BB3B4F1F6C.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.27.57:286][159]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.27.57:286][159]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.29.25:608][928]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2021.11.13-23.29.25:751][928]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.11.13-23.29.25:752][928]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Actor  to imply a specific type.
+[2021.11.13-23.29.25:752][928]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.13-23.29.25:764][928]LogStaticMesh: Building static mesh wandtexture...
+[2021.11.13-23.29.25:862][928]LogStaticMesh: Built static mesh [0.10s] /Game/BubbleGame/wandtexture.wandtexture
+[2021.11.13-23.29.25:878][928]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: EDFB144D16EF1AFB2E53E21B0B7C331584C407EE), compiling. 
+[2021.11.13-23.29.25:999][928]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.13-23.29.26:021][928]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.11.13-23.29.26:021][928]LogStaticMesh: Building static mesh bubbleObject...
+[2021.11.13-23.29.26:037][928]LogStaticMesh: Built static mesh [0.02s] /Game/BubbleGame/bubbleObject.bubbleObject
+[2021.11.13-23.29.26:083][928]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BubbleGame/Bubble.Bubble
+[2021.11.13-23.29.26:083][928]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.13-23.29.26:084][928]LightingResults: New page: Lighting Build
+[2021.11.13-23.29.26:088][928]LoadErrors: New page: Loading map: Bubble.umap
+[2021.11.13-23.29.26:107][928]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.29.26:107][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.29.26:186][928]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.29.26:186][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.29.26:186][928]MapCheck: New page: Map Check
+[2021.11.13-23.29.26:186][928]LightingResults: New page: Lighting Build
+[2021.11.13-23.29.26:228][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.13-23.29.26:247][928]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2021.11.13-23.29.26:249][928]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bubble'.
+[2021.11.13-23.29.26:256][928]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.13-23.29.26:256][928]LogAIModule: Creating AISystem for world Bubble
+[2021.11.13-23.29.26:307][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.11.13-23.29.26:316][928]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.13-23.29.26:316][928]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2021.11.13-23.29.26:317][928]LogFileHelpers: Loading map 'Bubble' took 0.233
+[2021.11.13-23.29.28:055][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.13-23.29.28:055][977]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2021.11.13-23.29.28:055][977]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.11.13-23.29.28:055][977]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.13-23.29.28:056][977]LogShaderCompilers: Display: ================================================
+[2021.11.13-23.30.23:746][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.30.23:822][770]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu8AFFED2C4FCFF5B4981A73858A8C5FC1.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.30.23:849][770]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.30.23:849][770]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.30.26:224][909]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.13-23.30.26:278][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.11.13-23.31.46:878][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.31.46:955][796]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuA00B53134DA22168B8E8B6B7F5DA81D1.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.31.46:980][796]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.31.46:980][796]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.32.09:462][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.32.09:538][255]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuA58E9F5B43AB8604D3908DB543E95F2F.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.32.09:564][255]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.32.09:564][255]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.32.24:778][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.11.13-23.32.24:828][310]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HomeScreen/MainMenuMap.MainMenuMap
+[2021.11.13-23.32.24:828][310]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.13-23.32.24:829][310]LightingResults: New page: Lighting Build
+[2021.11.13-23.32.24:829][310]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.11.13-23.32.24:832][310]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.32.24:832][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.32.24:832][310]MapCheck: New page: Map Check
+[2021.11.13-23.32.24:832][310]LightingResults: New page: Lighting Build
+[2021.11.13-23.32.24:872][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.13-23.32.24:887][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.11.13-23.32.24:887][310]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.11.13-23.32.24:889][310]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.13-23.32.24:889][310]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.11.13-23.32.24:936][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.11.13-23.32.24:943][310]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.13-23.32.24:943][310]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2021.11.13-23.32.24:943][310]LogFileHelpers: Loading map 'MainMenuMap' took 0.114
+[2021.11.13-23.32.27:532][556]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.13-23.32.27:580][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.11.13-23.34.14:561][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.11.13-23.34.14:643][548]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu298989424EF44C999B9265986C1EDD12.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.11.13-23.34.14:670][548]AssetCheck: New page: Asset Save: MainMenu
+[2021.11.13-23.34.14:670][548]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.11.13-23.35.26:702][671]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.13-23.35.26:719][671]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.13-23.35.26:730][671]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.35.26:730][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.35.26:742][671]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.35.26:742][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.39.39:709][ 82]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.11.13-23.39.39:813][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2021.11.13-23.40.34:598][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2021.11.13-23.40.34:637][ 15]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.11.13-23.40.34:637][ 15]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Actor  to imply a specific type.
+[2021.11.13-23.40.34:638][ 15]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.13-23.40.34:651][ 15]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BubbleGame/Bubble.Bubble
+[2021.11.13-23.40.34:651][ 15]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.13-23.40.34:651][ 15]LightingResults: New page: Lighting Build
+[2021.11.13-23.40.34:653][ 15]LoadErrors: New page: Loading map: Bubble.umap
+[2021.11.13-23.40.34:656][ 15]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.40.34:656][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.40.34:656][ 15]MapCheck: New page: Map Check
+[2021.11.13-23.40.34:656][ 15]LightingResults: New page: Lighting Build
+[2021.11.13-23.40.34:687][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.13-23.40.34:701][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.11.13-23.40.34:702][ 15]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bubble'.
+[2021.11.13-23.40.34:705][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.13-23.40.34:705][ 15]LogAIModule: Creating AISystem for world Bubble
+[2021.11.13-23.40.34:738][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.11.13-23.40.34:745][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.13-23.40.34:745][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2021.11.13-23.40.34:745][ 15]LogFileHelpers: Loading map 'Bubble' took 0.095
+[2021.11.13-23.40.40:422][514]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BubbleGame/Bubble.Bubble:PersistentLevel.Bubble
+[2021.11.13-23.42.09:030][562]LogSlate: Window 'Bubble' being destroyed
+[2021.11.13-23.42.09:045][562]LogSlate: Window 'Bubble' being destroyed
+[2021.11.13-23.42.09:049][562]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.42.09:049][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.42.48:424][692]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BubbleGame/Bubble.Bubble:PersistentLevel.Bubble
+[2021.11.13-23.43.38:841][577]BlueprintLog: New page: Compile Bubble
+[2021.11.13-23.43.38:845][577]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Actor  to imply a specific type.
+[2021.11.13-23.43.38:845][577]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\Bubble.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.13-23.43.38:914][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.11.13-23.44.04:834][812]BlueprintLog: New page: Compile Bubble
+[2021.11.13-23.44.04:888][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.11.13-23.44.06:973][975]LogSlate: Window 'Bubble' being destroyed
+[2021.11.13-23.44.06:997][975]LogSlate: Window 'Bubble' being destroyed
+[2021.11.13-23.44.07:001][975]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.13-23.44.07:001][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.13-23.44.10:919][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.13-23.44.12:402][340]LogSlate: Window 'Save Content' being destroyed
+[2021.11.13-23.44.12:574][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.11.13-23.44.12:598][340]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble06BE1544466B09ABB64BD2B7FE2201F8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.11.13-23.44.12:608][340]LogFileHelpers: Saving map 'Bubble' took 0.089
+[2021.11.13-23.44.12:647][341]AssetCheck: New page: Asset Save: Bubble
+[2021.11.13-23.44.12:647][341]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.11.13-23.44.29:462][645]MapCheck: New page: Map Check
+[2021.11.13-23.44.29:513][645]Cmd: MAP REBUILD ALLVISIBLE
+[2021.11.13-23.44.29:513][645]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.11.13-23.44.29:513][645]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=false
+[2021.11.13-23.44.29:554][645]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.11.13-23.44.29:555][645]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.11.13-23.44.29:555][645]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.11.13-23.44.29:617][645]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2021.11.13-23.44.29:659][645]LogLevel: Display: Export Material TexCoord Scales took 0.039 seconds.
+[2021.11.13-23.44.29:666][645]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2021.11.13-23.44.29:711][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.11.13-23.44.29:720][645]LightingResults: New page: Lighting Build - Nov 13, 2021, 11:44:29 AM
+[2021.11.13-23.44.29:823][645]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.11.13-23.44.29:928][645]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.11.13-23.44.29:948][645]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.11.13-23.44.31:008][645]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.11.13-23.44.31:008][645]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15068
+[2021.11.13-23.44.34:582][645]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.11.13-23.44.34:583][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.11.13-23.44.34:583][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.11.13-23.44.34:583][645]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.11.13-23.44.34:583][645]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.11.13-23.44.34:583][645]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.11.13-23.44.34:837][645]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.11.13-23.44.34:837][645]MapCheck: New page: Bubble - Nov 13, 2021, 11:44:34 AM
+[2021.11.13-23.44.34:838][645]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.11.13-23.44.34:838][645]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.272ms to complete.
+[2021.11.13-23.44.34:842][645]LogEditorBuildUtils: Build time 0:05
+[2021.11.13-23.44.35:637][646]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CA221B5AB100D299F89247D52ED5E7FD59E3C0B), compiling. 
+[2021.11.13-23.44.35:644][646]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.11.13-23.44.35:646][646]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B59B37FD363CA0411215EDAACEBBF8DFD8864D7), compiling. 
+[2021.11.13-23.44.35:653][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.13-23.44.35:653][646]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.13-23.44.35:653][646]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.13-23.44.35:653][646]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.11.13-23.44.36:551][647]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: Total job queries 30, among them cache hits 1 (3.33%)
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 23 distinct outputs (79.31%)
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2021.11.13-23.44.36:552][647]LogShaderCompilers: Display: ================================================
+[2021.11.13-23.44.36:823][652]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.11.13-23.44.39:628][759]Job is a success!
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:      Bricks at depth
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2021.11.13-23.44.39:829][760]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.11.13-23.44.39:830][760]LogVolumetricLightmapImport:      Bricks in each level
+[2021.11.13-23.44.39:830][760]LogVolumetricLightmapImport:          Bubble 			 2 bricks 	 100.0% (Persistent Level)
+[2021.11.13-23.44.39:979][760]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2021.11.13-23.44.39:979][760]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2021.11.13-23.44.39:979][760]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.11.13-23.44.39:979][760]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.11.13-23.44.39:979][760]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X64)
+[2021.11.13-23.44.39:979][760]Lightmass on DESKTOP-MLIJEB5: 1.92 sec total, 357 ms importing, 29 ms setup, 135 ms photons, 1.30 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 14.3 sec total, 1.60 sec processing.
+[2021.11.13-23.44.40:019][760]LogStaticLightingSystem: Bubble_BuiltData storing lightmap data for 7 meshes in 2 LightmapResourceClusters (3.5 Meshes per cluster).
+[2021.11.13-23.44.40:113][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.11.13-23.44.40:227][760]LogStaticLightingSystem: Illumination: 10.3 sec (22 ms encoding lightmaps, 38 ms encoding shadowmaps)
+[2021.11.13-23.44.40:227][760]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.11.13-23.44.40:227][760]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.11.13-23.44.40:583][760]DumpUnbuiltLightIteractions
+[2021.11.13-23.44.40:583][760]Lights with unbuilt interactions: 0
+[2021.11.13-23.44.40:583][760]
+[2021.11.13-23.44.40:583][760]Primitives with unbuilt interactions: 0
+[2021.11.13-23.44.40:643][761]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.11.13-23.44.40:643][761]MapCheck: New page: Bubble - Nov 13, 2021, 11:44:40 AM
+[2021.11.13-23.44.40:644][761]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.523ms to complete.
+[2021.11.13-23.44.41:865][856]LogSlate: Window 'Message Log' being destroyed
+[2021.11.13-23.44.41:890][856]LogSlate: Window 'Message Log' being destroyed
+[2021.11.13-23.44.44:209][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.13-23.44.46:183][ 60]LogSlate: Window 'Save Content' being destroyed
+[2021.11.13-23.44.46:346][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.13-23.44.46:385][ 60]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble10002FF0456B0F4444C614910B86A759.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.11.13-23.44.46:403][ 60]LogFileHelpers: Saving map 'Bubble' took 0.101
+[2021.11.13-23.44.46:433][ 60]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble_BuiltData70FD71B34A883D98EEAF7CB8E57F2039.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble_BuiltData.uasset'
+[2021.11.13-23.44.46:509][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.13-23.44.46:509][ 61]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.11.13-23.44.46:510][ 61]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BubbleGame/Bubble_BuiltData.Bubble_BuiltData
+[2021.11.13-23.45.17:404][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.11.13-23.45.17:424][709]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/BubbleA3117B2844FA5E50CA22D5AC51474B9E.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.11.13-23.45.17:448][709]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble_BuiltData247F41A9456B4F9E66AFC3AF54AD2009.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble_BuiltData.uasset'
+[2021.11.13-23.45.17:474][709]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.13-23.45.17:474][709]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.11.13-23.45.17:474][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/BubbleGame/Bubble_BuiltData.Bubble_BuiltData
