@@ -2183,3 +2183,141 @@ Make sure 'Bubble_C' has been compiled for  Set player ref
 [2021.12.06-20.59.23:284][263]LogFileHelpers: Saving map 'Bubble' took 0.126
 [2021.12.06-20.59.23:310][263]AssetCheck: New page: Asset Save: Bubble
 [2021.12.06-20.59.23:310][263]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.00.52:763][235]Cmd: DELETE
+[2021.12.06-21.00.52:763][235]Cmd: ACTOR DELETE
+[2021.12.06-21.00.52:772][235]LogEditorActor: Deleted Actor: Character
+[2021.12.06-21.00.52:852][235]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2021.12.06-21.00.52:856][235]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2021.12.06-21.01.02:869][739]BlueprintLog: New page: Compile Bubble
+[2021.12.06-21.01.02:996][739]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2021.12.06-21.01.03:667][766]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2021.12.06-21.01.03:700][766]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble9DD012AC4C11A435A911FBBF6618EED0.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.01.03:712][766]LogFileHelpers: Saving map 'Bubble' took 0.121
+[2021.12.06-21.01.03:744][766]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.01.03:744][766]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.01.09:272][ 66]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.01.09:284][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.01.09:284][ 66]PIE: New page: PIE session: Bubble (Dec 6, 2021, 9:01:09 AM)
+[2021.12.06-21.01.09:284][ 66]LogPlayLevel: Creating play world package: /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.01.09:290][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005469s)
+[2021.12.06-21.01.09:292][ 66]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.01.09:292][ 66]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2021.12.06-21.01.09:292][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BubbleGame/Bubble.Bubble to /Game/BubbleGame/UEDPIE_0_Bubble.Bubble (0.007554s)
+[2021.12.06-21.01.09:368][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2021.12.06-21.01.09:378][ 66]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.01.09:378][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.01.09:378][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.01.09:379][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.01.09:379][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.01.09:379][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.01.09:379][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.01.09:385][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.01.09:385][ 66]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.01.09:404][ 66]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.01.09:405][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.01.09:405][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.01.09:405][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.01.09:406][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.01.09:406][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.01.09:406][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.01.09:408][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.01.09:408][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.01.09:408][ 66]LogInit: FAudioDevice initialized.
+[2021.12.06-21.01.09:408][ 66]LogAudio: Display: Audio Device (ID: 11) registered with world 'Bubble'.
+[2021.12.06-21.01.09:468][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.01.09:469][ 66]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.01.09:472][ 66]LogWorld: Bringing World /Game/BubbleGame/UEDPIE_0_Bubble.Bubble up for play (max tick rate 60) at 2021.12.06-15.01.09
+[2021.12.06-21.01.09:473][ 66]LogWorld: Bringing up level for play took: 0.002831
+[2021.12.06-21.01.09:473][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.12.06-21.01.09:477][ 66]LogBlueprintUserMessages: [Bubble_C_8] 
+[2021.12.06-21.01.09:477][ 66]LogBlueprintUserMessages: [Bubble_C_8] flowerField_Mat
+[2021.12.06-21.01.09:482][ 66]PIE: Server logged in
+[2021.12.06-21.01.09:485][ 66]PIE: Play in editor total start time 0.203 seconds.
+[2021.12.06-21.01.12:067][201]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] -1
+[2021.12.06-21.01.12:988][250]LogBlueprintUserMessages: [bubbleObject_Blueprint2] -2
+[2021.12.06-21.01.15:259][377]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.06-21.01.15:259][377]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.06-21.01.15:259][377]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.06-21.01.16:173][428]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.01.16:173][428]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.01.16:173][428]LogWorld: BeginTearingDown for /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.01.16:174][428]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.01.16:174][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.16:244][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.01.16:252][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2021.12.06-21.01.16:264][428]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenuMap'.
+[2021.12.06-21.01.16:266][428]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.01.16:277][428]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.01.16:279][428]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.01.16
+[2021.12.06-21.01.16:280][428]LogWorld: Bringing up level for play took: 0.000936
+[2021.12.06-21.01.16:283][428]LogBlueprintUserMessages: [MainMenu_C_0] sheep_crop
+[2021.12.06-21.01.16:284][428]LogLoad: Took 0.110596 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.01.16:284][428]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.01.19:042][573]LogBlueprintUserMessages: [MainMenu_C_0] seascape_Mat
+[2021.12.06-21.01.19:663][606]LogNet: Browse: /Game/BubbleGame/Bubble
+[2021.12.06-21.01.19:663][606]LogLoad: LoadMap: /Game/BubbleGame/Bubble
+[2021.12.06-21.01.19:663][606]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.01.19:664][606]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.01.19:664][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.19:764][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.01.19:772][606]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2021.12.06-21.01.19:774][606]LogPlayLevel: Creating play world package: /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.01.19:779][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005437s)
+[2021.12.06-21.01.19:781][606]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.01.19:781][606]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2021.12.06-21.01.19:781][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BubbleGame/Bubble.Bubble to /Game/BubbleGame/UEDPIE_0_Bubble.Bubble (0.007391s)
+[2021.12.06-21.01.19:781][606]LogAudio: Display: Audio Device (ID: 11) registered with world 'Bubble'.
+[2021.12.06-21.01.19:781][606]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.01.19:783][606]LogWorld: Bringing World /Game/BubbleGame/UEDPIE_0_Bubble.Bubble up for play (max tick rate 60) at 2021.12.06-15.01.19
+[2021.12.06-21.01.19:784][606]LogWorld: Bringing up level for play took: 0.001177
+[2021.12.06-21.01.19:785][606]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.06-21.01.19:786][606]LogBlueprintUserMessages: [Bubble_C_8] 
+[2021.12.06-21.01.19:786][606]LogBlueprintUserMessages: [Bubble_C_8] seascape_Mat
+[2021.12.06-21.01.19:786][606]LogLoad: Took 0.123136 seconds to LoadMap(/Game/BubbleGame/UEDPIE_0_Bubble)
+[2021.12.06-21.01.23:614][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.01.23:614][808]LogWorld: BeginTearingDown for /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.01.23:614][808]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.01.23:628][808]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.01.23:629][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.23:640][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.01.23:650][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.23:721][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.01.23:721][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.01.23:723][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.01.23:735][808]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2021.12.06-21.01.23:911][809]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.12.06-21.01.35:653][331]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.12.06-21.01.39:952][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.12.06-21.01.40:024][542]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HomeScreen/MainMenuMap.MainMenuMap
+[2021.12.06-21.01.40:024][542]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-21.01.40:024][542]LightingResults: New page: Lighting Build
+[2021.12.06-21.01.40:024][542]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.12.06-21.01.40:046][542]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.01.40:046][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.40:116][542]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.01.40:116][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.01.40:117][542]MapCheck: New page: Map Check
+[2021.12.06-21.01.40:117][542]LightingResults: New page: Lighting Build
+[2021.12.06-21.01.40:184][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.01.40:199][542]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2021.12.06-21.01.40:199][542]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.12.06-21.01.40:209][542]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-21.01.40:210][542]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.01.40:286][542]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.12.06-21.01.40:295][542]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-21.01.40:296][542]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.379ms to complete.
+[2021.12.06-21.01.40:296][542]LogFileHelpers: Loading map 'MainMenuMap' took 0.272
+[2021.12.06-21.01.42:883][683]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.06-21.01.42:963][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.12.06-21.02.43:600][230]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.06-21.02.43:689][230]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.12.06-21.03.11:459][512]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.06-21.03.11:547][512]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2021.12.06-21.03.33:626][855]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.03.33:646][855]LogSlate: Window 'Message Log' being destroyed
