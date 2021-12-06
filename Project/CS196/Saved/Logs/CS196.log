@@ -2321,3 +2321,1122 @@ Make sure 'Bubble_C' has been compiled for  Set player ref
 [2021.12.06-21.03.11:547][512]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
 [2021.12.06-21.03.33:626][855]LogSlate: Window 'Message Log' being destroyed
 [2021.12.06-21.03.33:646][855]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.06.04:395][797]LogSlate: Window 'PauseButtonListener' being destroyed
+[2021.12.06-21.06.04:401][797]LogSlate: Window 'PauseButtonListener' being destroyed
+[2021.12.06-21.06.04:424][797]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.04:424][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.04:447][797]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.04:447][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.04:674][797]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.04:674][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.04:883][797]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.04:883][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.05:087][797]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.05:087][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.05:325][797]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.05:325][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.05:343][797]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.05:343][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.05:548][797]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.06-21.06.05:548][797]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.05:548][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.10:621][ 47]LogUObjectHash: Compacting FUObjectHashTables data took  11.81ms
+[2021.12.06-21.06.10:732][ 47]LogAssetEditorSubsystem: Opening Asset editor for World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.06.10:732][ 47]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-21.06.10:732][ 47]LightingResults: New page: Lighting Build
+[2021.12.06-21.06.10:732][ 47]LoadErrors: New page: Loading map: Bubble.umap
+[2021.12.06-21.06.10:735][ 47]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.06.10:735][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.06.10:735][ 47]MapCheck: New page: Map Check
+[2021.12.06-21.06.10:735][ 47]LightingResults: New page: Lighting Build
+[2021.12.06-21.06.10:791][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.06.10:908][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2021.12.06-21.06.10:910][ 47]LogAudio: Display: Audio Device (ID: 1) registered with world 'Bubble'.
+[2021.12.06-21.06.10:915][ 47]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-21.06.10:915][ 47]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.06.10:953][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.12.06-21.06.10:962][ 47]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-21.06.10:963][ 47]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.215ms to complete.
+[2021.12.06-21.06.10:963][ 47]LogFileHelpers: Loading map 'Bubble' took 0.231
+[2021.12.06-21.06.23:224][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.07.33:535][567]LogEditorTransaction: Undo Add Node
+[2021.12.06-21.08.35:261][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGameInstance.MyGameInstance
+[2021.12.06-21.08.45:979][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SaveGameObject.SaveGameObject
+[2021.12.06-21.09.23:458][ 10]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.12.06-21.10.20:946][681]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.10.21:089][681]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.12.06-21.10.22:347][720]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_Blueprint49F01F334AED08FCBD15F69B65972A83.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.10.22:370][720]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.10.22:370][720]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.11.28:738][164]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/BubbleGame/Bubble.Bubble:PersistentLevel.Bubble
+[2021.12.06-21.12.34:663][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2021.12.06-21.12.34:699][837]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble065DFEAC4ABF697A5AF2BABED86DEFD9.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.12.34:710][837]LogFileHelpers: Saving map 'Bubble' took 0.102
+[2021.12.06-21.12.34:738][837]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.12.34:738][837]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.12.35:859][901]BlueprintLog: New page: Compile Bubble
+[2021.12.06-21.12.35:942][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.12.06-21.12.37:427][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.12.06-21.12.37:460][957]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/BubbleA5CAC33144E896D8758E5C9B541D615D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.12.37:471][957]LogFileHelpers: Saving map 'Bubble' took 0.094
+[2021.12.06-21.12.37:497][957]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.12.37:497][957]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.13.08:100][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HomeScreen/dataStorageVessel.dataStorageVessel
+[2021.12.06-21.13.18:171][147]BlueprintLog: New page: Compile dataStorageVessel
+[2021.12.06-21.13.18:446][147]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2021.12.06-21.13.21:944][324]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/dataStorageVessel00CF73B04AA9B5EA2DB987853CDF3D63.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/dataStorageVessel.uasset'
+[2021.12.06-21.13.21:966][324]AssetCheck: New page: Asset Save: dataStorageVessel
+[2021.12.06-21.13.21:966][324]LogContentValidation: Display: Validating Blueprint /Game/HomeScreen/dataStorageVessel.dataStorageVessel
+[2021.12.06-21.15.17:395][254]BlueprintLog: New page: Compile MyGameInstance
+[2021.12.06-21.15.17:490][254]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.12.06-21.15.18:268][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MyGameInstance.uasset" SILENT=true
+[2021.12.06-21.15.18:306][288]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MyGameInstance7EA6C12343BE42ABC594A8B7106E69C8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MyGameInstance.uasset'
+[2021.12.06-21.15.18:333][288]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.12.06-21.15.18:333][288]LogContentValidation: Display: Validating Blueprint /Game/MyGameInstance.MyGameInstance
+[2021.12.06-21.15.22:122][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.12.06-21.15.22:156][466]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble873E177B4DFE6EBA34349484B014C21A.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.15.22:168][466]LogFileHelpers: Saving map 'Bubble' took 0.101
+[2021.12.06-21.15.22:189][466]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.15.22:189][466]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.18.21:377][490]LogSlate: Window 'Delete Variable' being destroyed
+[2021.12.06-21.18.27:126][773]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.18.27:136][773]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\bubbleObject_Blueprint.uasset: [Compiler] This blueprint (self) is not a MyGameInstance_C, therefore ' Target ' must have a connection.
+[2021.12.06-21.18.27:230][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.12.06-21.18.36:221][182]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.18.36:317][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.12.06-21.18.43:020][293]LogSlate: Window 'Delete Variable' being destroyed
+[2021.12.06-21.19.00:720][150]LogEditorTransaction: Undo Create Pin Link
+[2021.12.06-21.19.01:151][153]LogEditorTransaction: Undo Delete current selection
+[2021.12.06-21.19.01:861][178]LogEditorTransaction: Undo Create Missing Variable
+[2021.12.06-21.19.06:200][367]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.19.06:208][367]LogBlueprint: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\bubbleObject_Blueprint.uasset: [Compiler] Could not find a variable named "player ref" in 'bubbleObject_Blueprint_C'.
+Make sure 'bubbleObject_Blueprint_C' has been compiled for  Set player ref
+[2021.12.06-21.19.06:212][367]LogBlueprint: Error: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\BubbleGame\bubbleObject_Blueprint.uasset: [Compiler] The property associated with  Player Ref  could not be found in '/Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint_C'
+[2021.12.06-21.19.06:304][367]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.12.06-21.20.06:745][231]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.20.06:850][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.12.06-21.20.07:611][252]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_Blueprint1F546DBA467D8F2FFA6BE4AD166A350A.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.20.07:636][252]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.20.07:636][252]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.20.10:120][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.12.06-21.20.10:284][352]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenu99010AE642473DBF954F1E9FCDC83F7E.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.12.06-21.20.10:314][352]AssetCheck: New page: Asset Save: MainMenu
+[2021.12.06-21.20.10:314][352]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.12.06-21.20.46:850][264]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_BlueprintC37D797E447DCB70BBB77D872BD8FB7A.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.20.46:878][264]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.20.46:878][264]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.20.50:709][449]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.12.06-21.20.50:744][449]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Bubble2AF6935C4864BA8606B47F9C2DF129F8.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.20.50:755][449]LogFileHelpers: Saving map 'Bubble' took 0.103
+[2021.12.06-21.20.50:780][449]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.20.50:780][449]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.21.22:813][ 71]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_Blueprint87F82A0E4103E1840C4E6E9CFEE1263E.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.21.22:839][ 71]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.21.22:839][ 71]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.21.27:038][281]LogTemp: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2021.12.06-21.21.27:101][281]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.12.06-21.21.57:889][715]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.06-21.21.57:892][715]LogPlayLevel: [PlayLevel] Compiling bubbleObject_Blueprint before play...
+[2021.12.06-21.21.58:021][715]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.12.06-21.21.58:025][715]LogPlayLevel: PlayLevel: Blueprint regeneration took 135 ms (1 blueprints)
+[2021.12.06-21.21.58:025][715]PIE: New page: PIE session: Bubble (Dec 6, 2021, 9:21:58 AM)
+[2021.12.06-21.21.58:025][715]LogPlayLevel: Creating play world package: /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.21.58:030][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2021.12.06-21.21.58:032][715]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.21.58:032][715]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2021.12.06-21.21.58:032][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BubbleGame/Bubble.Bubble to /Game/BubbleGame/UEDPIE_0_Bubble.Bubble (0.007285s)
+[2021.12.06-21.21.58:082][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.12.06-21.21.58:083][715]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.21.58:083][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.21.58:084][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.21.58:084][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.21.58:084][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.21.58:084][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.21.58:084][715]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.21.58:092][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.21.58:092][715]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.21.58:108][715]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.21.58:108][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.21.58:108][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.21.58:108][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.21.58:109][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.21.58:109][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.21.58:109][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.21.58:111][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.21.58:111][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.21.58:111][715]LogInit: FAudioDevice initialized.
+[2021.12.06-21.21.58:111][715]LogAudio: Display: Audio Device (ID: 12) registered with world 'Bubble'.
+[2021.12.06-21.21.58:173][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.21.58:174][715]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.21.58:177][715]LogWorld: Bringing World /Game/BubbleGame/UEDPIE_0_Bubble.Bubble up for play (max tick rate 60) at 2021.12.06-15.21.58
+[2021.12.06-21.21.58:177][715]LogWorld: Bringing up level for play took: 0.002041
+[2021.12.06-21.21.58:177][715]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.12.06-21.21.58:182][715]LogBlueprintUserMessages: [Bubble_C_0] flowerField_Mat
+[2021.12.06-21.21.58:185][715]PIE: Server logged in
+[2021.12.06-21.21.58:188][715]PIE: Play in editor total start time 0.301 seconds.
+[2021.12.06-21.21.59:678][796]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] -1
+[2021.12.06-21.21.59:679][796]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] 1
+[2021.12.06-21.22.06:464][203]LogBlueprintUserMessages: [bubbleObject_Blueprint2] -2
+[2021.12.06-21.22.06:464][203]LogBlueprintUserMessages: [bubbleObject_Blueprint2] 1
+[2021.12.06-21.22.12:207][450]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.22.12:287][450]LogWorld: BeginTearingDown for /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.22.12:287][450]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.22.12:288][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.22.12:307][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.22.12:376][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.22.12:425][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.22.12:425][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.22.12:427][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.22.12:438][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.06-21.22.12:619][451]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.12.06-21.22.22:896][589]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.06-21.22.44:047][806]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.22.44:147][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.12.06-21.22.45:434][854]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_Blueprint7DE07070415BF945D6877DAB3AC31603.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.22.45:459][854]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.22.45:459][854]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.23.51:864][234]BlueprintLog: New page: Compile bubbleObject_Blueprint
+[2021.12.06-21.23.51:968][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.12.06-21.23.52:893][263]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_BlueprintFF771529476286570D92658DA23F87BB.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.23.52:918][263]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.23.52:919][263]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.24.52:115][408]BlueprintLog: New page: Compile MyGameInstance
+[2021.12.06-21.24.52:239][408]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.12.06-21.24.53:000][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGameInstance" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MyGameInstance.uasset" SILENT=true
+[2021.12.06-21.24.53:041][439]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MyGameInstanceFC2B642F45B77526321AFB9FBEB863C3.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/MyGameInstance.uasset'
+[2021.12.06-21.24.53:070][439]AssetCheck: New page: Asset Save: MyGameInstance
+[2021.12.06-21.24.53:070][439]LogContentValidation: Display: Validating Blueprint /Game/MyGameInstance.MyGameInstance
+[2021.12.06-21.24.58:637][701]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.24.58:650][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.24.58:650][701]PIE: New page: PIE session: Bubble (Dec 6, 2021, 9:24:58 AM)
+[2021.12.06-21.24.58:650][701]LogPlayLevel: Creating play world package: /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.24.58:656][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005590s)
+[2021.12.06-21.24.58:658][701]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.24.58:658][701]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2021.12.06-21.24.58:658][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BubbleGame/Bubble.Bubble to /Game/BubbleGame/UEDPIE_0_Bubble.Bubble (0.007645s)
+[2021.12.06-21.24.58:714][701]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.12.06-21.24.58:716][701]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.24.58:716][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.24.58:716][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.24.58:717][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.24.58:717][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.24.58:717][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.24.58:717][701]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.24.58:723][701]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.24.58:724][701]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.24.58:741][701]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.24.58:741][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.24.58:741][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.24.58:741][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.24.58:742][701]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.24.58:742][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.24.58:742][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.24.58:744][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.24.58:744][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.24.58:744][701]LogInit: FAudioDevice initialized.
+[2021.12.06-21.24.58:744][701]LogAudio: Display: Audio Device (ID: 13) registered with world 'Bubble'.
+[2021.12.06-21.24.58:817][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.24.58:818][701]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.24.58:821][701]LogWorld: Bringing World /Game/BubbleGame/UEDPIE_0_Bubble.Bubble up for play (max tick rate 60) at 2021.12.06-15.24.58
+[2021.12.06-21.24.58:821][701]LogWorld: Bringing up level for play took: 0.001649
+[2021.12.06-21.24.58:821][701]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.12.06-21.24.58:825][701]LogBlueprintUserMessages: [Bubble_C_0] flowerField_Mat
+[2021.12.06-21.24.58:831][701]PIE: Server logged in
+[2021.12.06-21.24.58:837][701]PIE: Play in editor total start time 0.189 seconds.
+[2021.12.06-21.25.00:126][760]LogBlueprintUserMessages: [bubbleObject_Blueprint2] -1
+[2021.12.06-21.25.00:127][760]LogBlueprintUserMessages: [bubbleObject_Blueprint2] 1
+[2021.12.06-21.25.00:981][802]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] -2
+[2021.12.06-21.25.00:983][802]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] 2
+[2021.12.06-21.25.06:633][  4]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.25.06:652][  4]LogWorld: BeginTearingDown for /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.25.06:653][  4]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.25.06:653][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.25.06:693][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.25.06:761][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.25.06:809][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.25.06:810][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.25.06:811][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.25.06:822][  4]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.12.06-21.25.06:984][  5]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.12.06-21.25.10:775][131]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/bubbleObject_BlueprintC61DBE7F4585E44ED09026AE1E485A94.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/bubbleObject_Blueprint.uasset'
+[2021.12.06-21.25.10:801][131]AssetCheck: New page: Asset Save: bubbleObject_Blueprint
+[2021.12.06-21.25.10:801][131]LogContentValidation: Display: Validating Blueprint /Game/BubbleGame/bubbleObject_Blueprint.bubbleObject_Blueprint
+[2021.12.06-21.25.12:388][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.12.06-21.25.12:421][191]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/BubbleF5BACA26461244C60EFF44ADD3554917.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/BubbleGame/Bubble.umap'
+[2021.12.06-21.25.12:433][191]LogFileHelpers: Saving map 'Bubble' took 0.098
+[2021.12.06-21.25.12:459][191]AssetCheck: New page: Asset Save: Bubble
+[2021.12.06-21.25.12:459][191]LogContentValidation: Display: Validating World /Game/BubbleGame/Bubble.Bubble
+[2021.12.06-21.25.39:656][376]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.25.42:632][505]LogSlate: Took 0.013665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.12.06-21.32.59:856][ 92]Cmd: TRANSACTION UNDO
+[2021.12.06-21.32.59:856][ 92]LogEditorTransaction: Undo Create Binding
+[2021.12.06-21.34.14:428][340]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.34.14:527][340]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.12.06-21.34.15:506][375]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint31B04E59478EC11B4ED9B5B560864799.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.34.15:535][375]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.34.15:535][375]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.34.56:726][382]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.34.56:834][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.12.06-21.34.57:491][402]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint76252803496F2A12C40A1BB8CD50B27D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.34.57:521][402]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.34.57:521][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.35.03:359][677]BlueprintLog: New page: Compile MainMenu
+[2021.12.06-21.35.03:451][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.12.06-21.35.04:122][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HomeScreen/MainMenu" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset" SILENT=true
+[2021.12.06-21.35.04:285][692]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/MainMenuC626DF7D411C16B92D8AB48CD7EB8C4C.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenu.uasset'
+[2021.12.06-21.35.04:312][692]AssetCheck: New page: Asset Save: MainMenu
+[2021.12.06-21.35.04:312][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/HomeScreen/MainMenu.MainMenu
+[2021.12.06-21.35.40:866][566]BlueprintLog: New page: Compile SaveGameObject
+[2021.12.06-21.35.40:938][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.12.06-21.35.41:612][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGameObject" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset" SILENT=true
+[2021.12.06-21.35.41:617][599]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/SaveGameObjectED937FDB4DBA1CD88A971BB1092A2505.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset'
+[2021.12.06-21.35.41:650][599]AssetCheck: New page: Asset Save: SaveGameObject
+[2021.12.06-21.35.41:650][599]LogContentValidation: Display: Validating Blueprint /Game/SaveGameObject.SaveGameObject
+[2021.12.06-21.35.48:655][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.12.06-21.35.48:717][973]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HomeScreen/MainMenuMap.MainMenuMap
+[2021.12.06-21.35.48:717][973]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-21.35.48:717][973]LightingResults: New page: Lighting Build
+[2021.12.06-21.35.48:718][973]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2021.12.06-21.35.48:742][973]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.35.48:742][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.35.48:800][973]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.35.48:800][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.35.48:800][973]MapCheck: New page: Map Check
+[2021.12.06-21.35.48:800][973]LightingResults: New page: Lighting Build
+[2021.12.06-21.35.48:848][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.35.48:862][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.12.06-21.35.48:862][973]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2021.12.06-21.35.48:864][973]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-21.35.48:864][973]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.35.48:919][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.12.06-21.35.48:929][973]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-21.35.48:930][973]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2021.12.06-21.35.48:930][973]LogFileHelpers: Loading map 'MainMenuMap' took 0.213
+[2021.12.06-21.35.52:382][163]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.35.52:395][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.35.52:395][163]PIE: New page: PIE session: MainMenuMap (Dec 6, 2021, 9:35:52 AM)
+[2021.12.06-21.35.52:395][163]LogPlayLevel: Creating play world package: /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.35.52:397][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002133s)
+[2021.12.06-21.35.52:399][163]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.35.52:409][163]LogPlayLevel: PIE: World Init took: (0.010886s)
+[2021.12.06-21.35.52:409][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HomeScreen/MainMenuMap.MainMenuMap to /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap (0.013272s)
+[2021.12.06-21.35.52:458][163]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.12.06-21.35.52:461][163]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.12.06-21.35.52:461][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.35.52:461][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.35.52:462][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.35.52:462][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.35.52:462][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.35.52:462][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.35.52:462][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.35.52:462][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.35.52:462][163]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.35.52:462][163]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.35.52:462][163]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.35.52:463][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.35.52:470][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.35.52:470][163]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.35.52:487][163]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.35.52:487][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.35.52:487][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.35.52:488][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.35.52:488][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.35.52:488][163]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.35.52:488][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.35.52:490][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.35.52:490][163]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.35.52:490][163]LogInit: FAudioDevice initialized.
+[2021.12.06-21.35.52:490][163]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenuMap'.
+[2021.12.06-21.35.52:550][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.35.52:550][163]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.35.52:552][163]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.35.52
+[2021.12.06-21.35.52:553][163]LogWorld: Bringing up level for play took: 0.000945
+[2021.12.06-21.35.52:553][163]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.12.06-21.35.52:560][163]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.35.52:565][163]PIE: Server logged in
+[2021.12.06-21.35.52:567][163]PIE: Play in editor total start time 0.174 seconds.
+[2021.12.06-21.35.52:568][163]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.35.55:932][357]LogNet: Browse: /Game/ShopScreen/Shop
+[2021.12.06-21.35.55:932][357]LogLoad: LoadMap: /Game/ShopScreen/Shop
+[2021.12.06-21.35.55:932][357]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.35.55:932][357]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.35.55:933][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.35.55:980][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.35.55:986][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.12.06-21.35.55:990][357]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.55:991][357]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.56:017][357]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.56:018][357]LogLinker: Warning: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.56:018][357]LogLinker: Warning: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.56:025][357]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.35.56:025][357]LoadErrors: Failed to load /Game/ShopScreen/Shop_BuiltData.Shop_BuiltData Referenced by PersistentLevel
+[2021.12.06-21.35.56:090][357]LogAudio: Display: Audio Device (ID: 14) registered with world 'Shop'.
+[2021.12.06-21.35.56:091][357]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.35.56:092][357]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.35.56:099][357]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.35.56
+[2021.12.06-21.35.56:099][357]LogWorld: Bringing up level for play took: 0.005708
+[2021.12.06-21.35.56:099][357]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.06-21.35.56:102][357]LogLoad: Took 0.170247 seconds to LoadMap(/Game/ShopScreen/Shop)
+[2021.12.06-21.36.05:525][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.36.05:526][903]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.36.05:526][903]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.36.05:548][903]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.36.05:549][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.36.05:565][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.36.05:570][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.36.05:620][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.36.05:621][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.36.05:631][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.06-21.36.05:817][904]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.12.06-21.36.14:158][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.12.06-21.36.14:200][358]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:200][358]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:201][358]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:202][358]LogLinker: Warning: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:202][358]LogLinker: Warning: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:210][358]LogLinker: Warning: [AssetLog] C:\Users\amand\Documents\Unreal Projects\Group62-FA21\Project\CS196\Content\ShopScreen\Shop.umap: Failed to load '/Game/ShopScreen/Shop_BuiltData': Can't find file.
+[2021.12.06-21.36.14:213][358]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ShopScreen/Shop.Shop
+[2021.12.06-21.36.14:214][358]Cmd: MAP LOAD FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-21.36.14:214][358]LightingResults: New page: Lighting Build
+[2021.12.06-21.36.14:214][358]LoadErrors: New page: Loading map: Shop.umap
+[2021.12.06-21.36.14:245][358]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.36.14:246][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.36.14:246][358]MapCheck: New page: Map Check
+[2021.12.06-21.36.14:246][358]LightingResults: New page: Lighting Build
+[2021.12.06-21.36.14:292][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.36.14:298][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.12.06-21.36.14:298][358]LogAudio: Display: Audio Device (ID: 1) registered with world 'Shop'.
+[2021.12.06-21.36.14:300][358]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-21.36.14:300][358]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.36.14:353][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.12.06-21.36.14:362][358]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-21.36.14:363][358]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2021.12.06-21.36.14:363][358]LogFileHelpers: Loading map 'Shop' took 0.148
+[2021.12.06-21.36.48:765][841]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.12.06-21.36.58:390][378]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.36.58:465][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.12.06-21.36.59:448][419]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprintE4CD4FF7465598CD0CAEEF88CE783FC9.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.36.59:475][419]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.36.59:475][419]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.37.18:739][515]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2021.12.06-21.37.18:755][515]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop0F7EBFB249D1BD421EBC888C6F2415AF.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop.umap'
+[2021.12.06-21.37.18:792][515]AssetCheck: New page: Asset Save: Shop
+[2021.12.06-21.37.18:792][515]LogContentValidation: Display: Validating World /Game/ShopScreen/Shop.Shop
+[2021.12.06-21.37.22:233][711]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.37.22:245][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.37.22:245][711]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:37:22 AM)
+[2021.12.06-21.37.22:246][711]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.37.22:248][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002374s)
+[2021.12.06-21.37.22:249][711]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.37.22:250][711]LogPlayLevel: PIE: World Init took: (0.001669s)
+[2021.12.06-21.37.22:250][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004248s)
+[2021.12.06-21.37.22:301][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.12.06-21.37.22:304][711]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.37.22:304][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.37.22:305][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.37.22:305][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.37.22:305][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.37.22:305][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.37.22:305][711]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.37.22:312][711]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.37.22:312][711]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.37.22:329][711]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.37.22:329][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.37.22:329][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.37.22:329][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.37.22:330][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.37.22:330][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.37.22:330][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.37.22:332][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.37.22:332][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.37.22:332][711]LogInit: FAudioDevice initialized.
+[2021.12.06-21.37.22:332][711]LogAudio: Display: Audio Device (ID: 15) registered with world 'Shop'.
+[2021.12.06-21.37.22:409][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.37.22:410][711]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.37.22:412][711]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.37.22
+[2021.12.06-21.37.22:413][711]LogWorld: Bringing up level for play took: 0.001229
+[2021.12.06-21.37.22:413][711]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.12.06-21.37.22:423][711]PIE: Server logged in
+[2021.12.06-21.37.22:428][711]PIE: Play in editor total start time 0.183 seconds.
+[2021.12.06-21.37.26:148][926]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.37.26:148][926]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.37.26:148][926]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.37.26:150][926]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.37.26:150][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.37.26:201][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.37.26:206][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.06-21.37.26:220][926]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuMap'.
+[2021.12.06-21.37.26:221][926]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.37.26:232][926]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.37.26:234][926]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.37.26
+[2021.12.06-21.37.26:235][926]LogWorld: Bringing up level for play took: 0.001034
+[2021.12.06-21.37.26:238][926]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.37.26:238][926]LogLoad: Took 0.090705 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.37.26:239][926]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.37.28:817][ 62]LogNet: Browse: /Game/BubbleGame/Bubble
+[2021.12.06-21.37.28:817][ 62]LogLoad: LoadMap: /Game/BubbleGame/Bubble
+[2021.12.06-21.37.28:817][ 62]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.37.28:817][ 62]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.37.28:817][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.37.28:866][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.37.28:871][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.06-21.37.28:898][ 62]LogAudio: Display: Audio Device (ID: 15) registered with world 'Bubble'.
+[2021.12.06-21.37.28:899][ 62]LogAIModule: Creating AISystem for world Bubble
+[2021.12.06-21.37.28:900][ 62]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.37.28:904][ 62]LogWorld: Bringing World /Game/BubbleGame/UEDPIE_0_Bubble.Bubble up for play (max tick rate 60) at 2021.12.06-15.37.28
+[2021.12.06-21.37.28:905][ 62]LogWorld: Bringing up level for play took: 0.003385
+[2021.12.06-21.37.28:905][ 62]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.12.06-21.37.28:906][ 62]LogBlueprintUserMessages: [Bubble_C_0] flowerField_Mat
+[2021.12.06-21.37.28:906][ 62]LogLoad: Took 0.089291 seconds to LoadMap(/Game/BubbleGame/Bubble)
+[2021.12.06-21.37.29:828][108]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] -1
+[2021.12.06-21.37.29:829][108]LogBlueprintUserMessages: [bubbleObject_Blueprint_3] 3
+[2021.12.06-21.37.30:437][144]LogBlueprintUserMessages: [bubbleObject_Blueprint2] -2
+[2021.12.06-21.37.30:438][144]LogBlueprintUserMessages: [bubbleObject_Blueprint2] 4
+[2021.12.06-21.37.32:074][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.37.32:074][240]LogWorld: BeginTearingDown for /Game/BubbleGame/UEDPIE_0_Bubble
+[2021.12.06-21.37.32:075][240]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.37.32:097][240]LogWorld: UWorld::CleanupWorld for Bubble, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.37.32:097][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.37.32:140][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.37.32:210][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.37.32:260][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.37.32:262][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.37.32:272][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.12.06-21.37.32:441][241]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.12.06-21.37.34:443][353]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.37.34:470][353]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.37.56:233][470]BlueprintLog: New page: Compile dataStorageVessel
+[2021.12.06-21.37.56:507][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.12.06-21.38.01:267][740]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/dataStorageVesselF15F1BE94CA7EC554D58A6AAA9859BF4.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/dataStorageVessel.uasset'
+[2021.12.06-21.38.01:298][740]AssetCheck: New page: Asset Save: dataStorageVessel
+[2021.12.06-21.38.01:298][740]LogContentValidation: Display: Validating Blueprint /Game/HomeScreen/dataStorageVessel.dataStorageVessel
+[2021.12.06-21.38.06:598][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.38.06:610][ 28]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.06-21.38.06:612][ 28]LogPlayLevel: [PlayLevel] Compiling SaveGameObject before play...
+[2021.12.06-21.38.06:675][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.12.06-21.38.06:678][ 28]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2021.12.06-21.38.06:678][ 28]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:38:06 AM)
+[2021.12.06-21.38.06:679][ 28]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.06:681][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002347s)
+[2021.12.06-21.38.06:682][ 28]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.38.06:683][ 28]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2021.12.06-21.38.06:683][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004216s)
+[2021.12.06-21.38.06:735][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.06-21.38.06:735][ 28]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.38.06:735][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.38.06:735][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.38.06:736][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.38.06:736][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.38.06:736][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.38.06:736][ 28]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.38.06:742][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.38.06:742][ 28]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.38.06:760][ 28]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.38.06:760][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.38.06:760][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.38.06:760][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.38.06:761][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.38.06:761][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.38.06:761][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.38.06:763][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.38.06:763][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.38.06:763][ 28]LogInit: FAudioDevice initialized.
+[2021.12.06-21.38.06:763][ 28]LogAudio: Display: Audio Device (ID: 16) registered with world 'Shop'.
+[2021.12.06-21.38.06:815][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.38.06:815][ 28]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.38.06:818][ 28]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.38.06
+[2021.12.06-21.38.06:818][ 28]LogWorld: Bringing up level for play took: 0.001544
+[2021.12.06-21.38.06:819][ 28]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.12.06-21.38.06:827][ 28]PIE: Server logged in
+[2021.12.06-21.38.06:830][ 28]PIE: Play in editor total start time 0.222 seconds.
+[2021.12.06-21.38.09:072][121]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.38.09:072][121]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.38.09:072][121]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.09:073][121]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.38.09:073][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.09:123][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.38.09:128][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.12.06-21.38.09:141][121]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenuMap'.
+[2021.12.06-21.38.09:143][121]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.38.09:165][121]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.38.09:167][121]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.38.09
+[2021.12.06-21.38.09:168][121]LogWorld: Bringing up level for play took: 0.000939
+[2021.12.06-21.38.09:171][121]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.38.09:171][121]LogLoad: Took 0.098937 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.38.09:172][121]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.38.14:861][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.38.14:863][379]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.38.14:864][379]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.38.14:899][379]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.38.14:900][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.14:912][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.38.14:984][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.15:037][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.15:039][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.15:048][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.06-21.38.15:280][380]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.12.06-21.38.17:315][484]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.38.17:328][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.38.17:328][484]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:38:17 AM)
+[2021.12.06-21.38.17:328][484]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.17:331][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002269s)
+[2021.12.06-21.38.17:332][484]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.38.17:332][484]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2021.12.06-21.38.17:333][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004080s)
+[2021.12.06-21.38.17:383][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.12.06-21.38.17:384][484]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.38.17:385][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.38.17:385][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.38.17:386][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.38.17:386][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.38.17:386][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.38.17:386][484]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.38.17:392][484]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.38.17:392][484]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.38.17:408][484]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.38.17:409][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.38.17:409][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.38.17:409][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.38.17:409][484]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.38.17:409][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.38.17:409][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.38.17:411][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.38.17:411][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.38.17:411][484]LogInit: FAudioDevice initialized.
+[2021.12.06-21.38.17:411][484]LogAudio: Display: Audio Device (ID: 17) registered with world 'Shop'.
+[2021.12.06-21.38.17:464][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.38.17:465][484]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.38.17:467][484]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.38.17
+[2021.12.06-21.38.17:467][484]LogWorld: Bringing up level for play took: 0.001199
+[2021.12.06-21.38.17:468][484]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.12.06-21.38.17:476][484]PIE: Server logged in
+[2021.12.06-21.38.17:479][484]PIE: Play in editor total start time 0.152 seconds.
+[2021.12.06-21.38.20:903][681]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.38.20:934][681]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.20:935][681]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.38.20:935][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.20:948][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.38.21:016][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.21:065][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.21:067][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.21:076][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.06-21.38.21:132][682]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.12.06-21.38.29:755][ 36]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/dataStorageVesselA5BF9DEA49402D0CA28EB7A76D81FA88.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/HomeScreen/dataStorageVessel.uasset'
+[2021.12.06-21.38.29:783][ 36]AssetCheck: New page: Asset Save: dataStorageVessel
+[2021.12.06-21.38.29:783][ 36]LogContentValidation: Display: Validating Blueprint /Game/HomeScreen/dataStorageVessel.dataStorageVessel
+[2021.12.06-21.38.36:080][365]BlueprintLog: New page: Compile SaveGameObject
+[2021.12.06-21.38.36:136][365]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.12.06-21.38.36:706][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGameObject" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset" SILENT=true
+[2021.12.06-21.38.36:723][390]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/SaveGameObject35D22F3D4AE6469E1B94ED929D6B34AD.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset'
+[2021.12.06-21.38.36:747][390]AssetCheck: New page: Asset Save: SaveGameObject
+[2021.12.06-21.38.36:747][390]LogContentValidation: Display: Validating Blueprint /Game/SaveGameObject.SaveGameObject
+[2021.12.06-21.38.40:237][556]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.38.40:249][556]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.06-21.38.40:256][556]LogPlayLevel: [PlayLevel] Compiling dataStorageVessel before play...
+[2021.12.06-21.38.40:522][556]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.12.06-21.38.40:524][556]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2021.12.06-21.38.40:524][556]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:38:40 AM)
+[2021.12.06-21.38.40:524][556]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.40:526][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002283s)
+[2021.12.06-21.38.40:528][556]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.38.40:528][556]LogPlayLevel: PIE: World Init took: (0.001638s)
+[2021.12.06-21.38.40:528][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004120s)
+[2021.12.06-21.38.40:579][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.12.06-21.38.40:579][556]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.38.40:579][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.38.40:580][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.38.40:580][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.38.40:580][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.38.40:580][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.38.40:580][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.38.40:580][556]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.38.40:587][556]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.38.40:587][556]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.38.40:603][556]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.38.40:603][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.38.40:604][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.38.40:604][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.38.40:604][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.38.40:604][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.38.40:604][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.38.40:606][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.38.40:606][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.38.40:606][556]LogInit: FAudioDevice initialized.
+[2021.12.06-21.38.40:606][556]LogAudio: Display: Audio Device (ID: 18) registered with world 'Shop'.
+[2021.12.06-21.38.40:667][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.38.40:668][556]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.38.40:670][556]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.38.40
+[2021.12.06-21.38.40:670][556]LogWorld: Bringing up level for play took: 0.001158
+[2021.12.06-21.38.40:671][556]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.12.06-21.38.40:678][556]PIE: Server logged in
+[2021.12.06-21.38.40:681][556]PIE: Play in editor total start time 0.434 seconds.
+[2021.12.06-21.38.54:665][100]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.38.54:725][100]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.38.54:726][100]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.38.54:726][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.54:737][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.38.54:806][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.38.54:854][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.54:856][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.38.54:865][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.12.06-21.38.54:925][101]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.12.06-21.41.11:743][ 88]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint2E499E31454204DF62DA24B3A2521ED3.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.41.11:773][ 88]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.41.11:773][ 88]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.41.57:879][561]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.41.57:984][561]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.12.06-21.41.59:232][617]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint9CF230F54FBE7FEF8579A786D2745E8D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.41.59:257][617]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.41.59:257][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.42.07:996][ 81]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.42.08:091][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.12.06-21.42.08:952][113]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprintFEC3BB8B4FD26651448B20897B238229.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.42.08:976][113]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.42.08:976][113]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.42.12:520][305]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.42.12:532][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.42.12:532][305]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:42:12 AM)
+[2021.12.06-21.42.12:532][305]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.42.12:535][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002494s)
+[2021.12.06-21.42.12:537][305]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.42.12:537][305]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2021.12.06-21.42.12:537][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004576s)
+[2021.12.06-21.42.12:595][305]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.12.06-21.42.12:597][305]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.42.12:597][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.42.12:597][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.42.12:598][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.42.12:598][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.42.12:598][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.42.12:598][305]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.42.12:605][305]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.42.12:605][305]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.42.12:623][305]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.42.12:623][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.42.12:623][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.42.12:623][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.42.12:624][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.42.12:624][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.42.12:624][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.42.12:625][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.42.12:625][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.42.12:625][305]LogInit: FAudioDevice initialized.
+[2021.12.06-21.42.12:625][305]LogAudio: Display: Audio Device (ID: 19) registered with world 'Shop'.
+[2021.12.06-21.42.12:678][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.42.12:678][305]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.42.12:681][305]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.42.12
+[2021.12.06-21.42.12:681][305]LogWorld: Bringing up level for play took: 0.001247
+[2021.12.06-21.42.12:681][305]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.12.06-21.42.12:693][305]PIE: Server logged in
+[2021.12.06-21.42.12:698][305]PIE: Play in editor total start time 0.167 seconds.
+[2021.12.06-21.42.29:247][  7]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.42.29:304][  7]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.42.29:304][  7]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.42.29:305][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.42.29:319][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.42.29:390][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.42.29:439][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.42.29:439][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.42.29:441][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.42.29:450][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.12.06-21.42.29:505][  8]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.12.06-21.43.20:013][695]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.43.20:086][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.12.06-21.43.20:903][723]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint67474050496629310E7B13951DDC239D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.43.20:929][723]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.43.20:929][723]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.43.24:225][893]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.43.24:237][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.43.24:237][893]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:43:24 AM)
+[2021.12.06-21.43.24:237][893]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.43.24:240][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002362s)
+[2021.12.06-21.43.24:241][893]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.43.24:242][893]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2021.12.06-21.43.24:242][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004331s)
+[2021.12.06-21.43.24:298][893]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2021.12.06-21.43.24:300][893]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.43.24:300][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.43.24:300][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.43.24:301][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.43.24:301][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.43.24:301][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.43.24:301][893]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.43.24:308][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.43.24:308][893]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.43.24:325][893]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.43.24:325][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.43.24:325][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.43.24:325][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.43.24:326][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.43.24:326][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.43.24:326][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.43.24:328][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.43.24:328][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.43.24:328][893]LogInit: FAudioDevice initialized.
+[2021.12.06-21.43.24:328][893]LogAudio: Display: Audio Device (ID: 20) registered with world 'Shop'.
+[2021.12.06-21.43.24:393][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.43.24:394][893]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.43.24:396][893]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.43.24
+[2021.12.06-21.43.24:397][893]LogWorld: Bringing up level for play took: 0.001272
+[2021.12.06-21.43.24:397][893]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.12.06-21.43.24:407][893]PIE: Server logged in
+[2021.12.06-21.43.24:412][893]PIE: Play in editor total start time 0.176 seconds.
+[2021.12.06-21.43.34:847][337]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.43.34:847][337]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.43.34:847][337]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.43.34:848][337]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.43.34:848][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.43.34:896][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.43.34:921][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.06-21.43.34:935][337]LogAudio: Display: Audio Device (ID: 20) registered with world 'MainMenuMap'.
+[2021.12.06-21.43.34:936][337]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.43.34:946][337]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.43.34:948][337]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.43.34
+[2021.12.06-21.43.34:948][337]LogWorld: Bringing up level for play took: 0.000914
+[2021.12.06-21.43.34:952][337]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.43.34:952][337]LogLoad: Took 0.104977 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.43.34:952][337]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.43.36:726][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.43.36:728][406]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.43.36:728][406]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.43.36:772][406]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.43.36:773][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.43.36:790][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.43.36:861][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.43.36:909][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.43.36:909][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.43.36:911][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.43.36:921][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.12.06-21.43.37:080][407]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.12.06-21.43.40:255][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.43.40:267][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.43.40:267][576]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:43:40 AM)
+[2021.12.06-21.43.40:268][576]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.43.40:270][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002318s)
+[2021.12.06-21.43.40:271][576]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.43.40:272][576]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2021.12.06-21.43.40:272][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004180s)
+[2021.12.06-21.43.40:324][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.12.06-21.43.40:325][576]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.43.40:325][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.43.40:325][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.43.40:325][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.43.40:326][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.43.40:326][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.43.40:326][576]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.43.40:332][576]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.43.40:332][576]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.43.40:349][576]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.43.40:349][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.43.40:349][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.43.40:349][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.43.40:350][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.43.40:350][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.43.40:350][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.43.40:352][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.43.40:352][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.43.40:352][576]LogInit: FAudioDevice initialized.
+[2021.12.06-21.43.40:352][576]LogAudio: Display: Audio Device (ID: 21) registered with world 'Shop'.
+[2021.12.06-21.43.40:410][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.43.40:410][576]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.43.40:412][576]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.43.40
+[2021.12.06-21.43.40:413][576]LogWorld: Bringing up level for play took: 0.001155
+[2021.12.06-21.43.40:413][576]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.12.06-21.43.40:423][576]PIE: Server logged in
+[2021.12.06-21.43.40:427][576]PIE: Play in editor total start time 0.162 seconds.
+[2021.12.06-21.43.47:174][972]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.43.47:195][972]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.43.47:196][972]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.43.47:196][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.43.47:213][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.43.47:283][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.43.47:332][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.43.47:334][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.43.47:342][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.12.06-21.43.47:399][973]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.12.06-21.45.55:239][629]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.45.55:322][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.12.06-21.45.56:085][650]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint9ACEF53F45F8652374A2D78B3F7AE1C5.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.45.56:130][650]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.45.56:130][650]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.47.06:485][295]BlueprintLog: New page: Compile Shop_blueprint
+[2021.12.06-21.47.06:584][295]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.12.06-21.47.07:341][317]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprintFA846FC24DE2430EE81E498AAB69AA32.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.47.07:367][317]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.47.07:367][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.47.34:463][654]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_blueprint0FD34DA046F1E0662FF3CE9FBAAD8D2D.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop_blueprint.uasset'
+[2021.12.06-21.47.34:489][654]AssetCheck: New page: Asset Save: Shop_blueprint
+[2021.12.06-21.47.34:489][654]LogContentValidation: Display: Validating WidgetBlueprint /Game/ShopScreen/Shop_blueprint.Shop_blueprint
+[2021.12.06-21.47.37:942][818]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.47.37:955][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.47.37:955][818]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:47:37 AM)
+[2021.12.06-21.47.37:956][818]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.47.37:958][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002467s)
+[2021.12.06-21.47.37:960][818]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.47.37:960][818]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2021.12.06-21.47.37:960][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004501s)
+[2021.12.06-21.47.38:018][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.12.06-21.47.38:020][818]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.47.38:021][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.47.38:021][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.47.38:022][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.47.38:022][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.47.38:022][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.47.38:022][818]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.47.38:028][818]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.47.38:028][818]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.47.38:045][818]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.47.38:046][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.47.38:046][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.47.38:046][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.47.38:046][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.47.38:047][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.47.38:047][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.47.38:048][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.47.38:048][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.47.38:048][818]LogInit: FAudioDevice initialized.
+[2021.12.06-21.47.38:048][818]LogAudio: Display: Audio Device (ID: 22) registered with world 'Shop'.
+[2021.12.06-21.47.38:108][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.47.38:108][818]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.47.38:110][818]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.47.38
+[2021.12.06-21.47.38:111][818]LogWorld: Bringing up level for play took: 0.001220
+[2021.12.06-21.47.38:111][818]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.12.06-21.47.38:122][818]PIE: Server logged in
+[2021.12.06-21.47.38:127][818]PIE: Play in editor total start time 0.174 seconds.
+[2021.12.06-21.47.45:365][100]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.47.45:365][100]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.47.45:365][100]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.47.45:366][100]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.47.45:366][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.45:413][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.47.45:436][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.06-21.47.45:449][100]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenuMap'.
+[2021.12.06-21.47.45:450][100]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.47.45:468][100]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.47.45:470][100]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.47.45
+[2021.12.06-21.47.45:470][100]LogWorld: Bringing up level for play took: 0.000903
+[2021.12.06-21.47.45:474][100]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.47.45:474][100]LogLoad: Took 0.108858 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.47.45:474][100]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.47.46:438][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.47.46:440][128]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.47.46:440][128]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.47.46:473][128]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.47.46:473][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.46:487][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.47.46:567][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.46:613][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.47.46:613][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.47.46:615][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.47.46:625][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.12.06-21.47.46:784][129]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.12.06-21.47.48:488][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.47.48:501][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.47.48:501][213]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:47:48 AM)
+[2021.12.06-21.47.48:502][213]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.47.48:504][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002344s)
+[2021.12.06-21.47.48:506][213]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.47.48:506][213]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2021.12.06-21.47.48:506][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004191s)
+[2021.12.06-21.47.48:558][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.06-21.47.48:559][213]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.47.48:559][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.47.48:559][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.47.48:560][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.47.48:560][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.47.48:560][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.47.48:560][213]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.47.48:567][213]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.47.48:567][213]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.47.48:583][213]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.47.48:584][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.47.48:584][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.47.48:584][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.47.48:584][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.47.48:584][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.47.48:584][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.47.48:586][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.47.48:586][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.47.48:586][213]LogInit: FAudioDevice initialized.
+[2021.12.06-21.47.48:586][213]LogAudio: Display: Audio Device (ID: 23) registered with world 'Shop'.
+[2021.12.06-21.47.48:641][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.47.48:642][213]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.47.48:644][213]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.47.48
+[2021.12.06-21.47.48:645][213]LogWorld: Bringing up level for play took: 0.001057
+[2021.12.06-21.47.48:645][213]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2021.12.06-21.47.48:655][213]PIE: Server logged in
+[2021.12.06-21.47.48:658][213]PIE: Play in editor total start time 0.159 seconds.
+[2021.12.06-21.47.53:590][487]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.47.53:590][487]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.47.53:590][487]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.47.53:591][487]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.47.53:591][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.53:640][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.47.53:645][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.12.06-21.47.53:657][487]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenuMap'.
+[2021.12.06-21.47.53:659][487]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.47.53:671][487]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.47.53:674][487]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.47.53
+[2021.12.06-21.47.53:675][487]LogWorld: Bringing up level for play took: 0.001104
+[2021.12.06-21.47.53:678][487]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.47.53:679][487]LogLoad: Took 0.088700 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.47.53:679][487]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.47.59:504][817]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.47.59:530][817]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.47.59:553][817]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.47.59:553][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.59:567][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.47.59:661][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.47.59:710][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.47.59:711][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.47.59:720][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.12.06-21.47.59:861][818]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2021.12.06-21.48.01:008][861]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-21.48.01:022][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-21.48.01:022][861]PIE: New page: PIE session: Shop (Dec 6, 2021, 9:48:01 AM)
+[2021.12.06-21.48.01:022][861]LogPlayLevel: Creating play world package: /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.48.01:024][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002354s)
+[2021.12.06-21.48.01:026][861]LogAIModule: Creating AISystem for world Shop
+[2021.12.06-21.48.01:026][861]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2021.12.06-21.48.01:026][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ShopScreen/Shop.Shop to /Game/ShopScreen/UEDPIE_0_Shop.Shop (0.004241s)
+[2021.12.06-21.48.01:082][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.06-21.48.01:083][861]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-21.48.01:083][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-21.48.01:083][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-21.48.01:084][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-21.48.01:084][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-21.48.01:084][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-21.48.01:084][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-21.48.01:090][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-21.48.01:090][861]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-21.48.01:108][861]LogAudioMixer: Display: Using Audio Device Headphones (JLab Studio Pro ANC Stereo)
+[2021.12.06-21.48.01:109][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-21.48.01:109][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-21.48.01:109][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-21.48.01:109][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-21.48.01:109][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-21.48.01:109][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-21.48.01:110][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-21.48.01:110][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-21.48.01:110][861]LogInit: FAudioDevice initialized.
+[2021.12.06-21.48.01:111][861]LogAudio: Display: Audio Device (ID: 24) registered with world 'Shop'.
+[2021.12.06-21.48.01:173][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.48.01:173][861]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.48.01:176][861]LogWorld: Bringing World /Game/ShopScreen/UEDPIE_0_Shop.Shop up for play (max tick rate 60) at 2021.12.06-15.48.01
+[2021.12.06-21.48.01:176][861]LogWorld: Bringing up level for play took: 0.001291
+[2021.12.06-21.48.01:176][861]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.12.06-21.48.01:188][861]PIE: Server logged in
+[2021.12.06-21.48.01:194][861]PIE: Play in editor total start time 0.174 seconds.
+[2021.12.06-21.48.03:477][941]LogNet: Browse: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.48.03:477][941]LogLoad: LoadMap: /Game/HomeScreen/MainMenuMap
+[2021.12.06-21.48.03:477][941]LogWorld: BeginTearingDown for /Game/ShopScreen/UEDPIE_0_Shop
+[2021.12.06-21.48.03:478][941]LogWorld: UWorld::CleanupWorld for Shop, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.48.03:478][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.48.03:528][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-21.48.03:533][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.12.06-21.48.03:546][941]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenuMap'.
+[2021.12.06-21.48.03:547][941]LogAIModule: Creating AISystem for world MainMenuMap
+[2021.12.06-21.48.03:576][941]LogLoad: Game class is 'GameModeBase'
+[2021.12.06-21.48.03:578][941]LogWorld: Bringing World /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2021.12.06-15.48.03
+[2021.12.06-21.48.03:578][941]LogWorld: Bringing up level for play took: 0.000982
+[2021.12.06-21.48.03:582][941]LogBlueprintUserMessages: [MainMenu_C_0] CS_196_-_cat2__2_
+[2021.12.06-21.48.03:582][941]LogLoad: Took 0.104375 seconds to LoadMap(/Game/HomeScreen/MainMenuMap)
+[2021.12.06-21.48.03:583][941]PIE: Warning: Mobility of /Game/HomeScreen/UEDPIE_0_MainMenuMap.MainMenuMap:PersistentLevel.myNewCharacter : CollisionCylinder has to be 'Movable' if you'd like to move it with CharacterMovementComponent. 
+[2021.12.06-21.48.04:775][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-21.48.04:777][982]LogWorld: BeginTearingDown for /Game/HomeScreen/UEDPIE_0_MainMenuMap
+[2021.12.06-21.48.04:778][982]LogSlate: Window 'CS196 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-21.48.04:827][982]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-21.48.04:827][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.48.04:841][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-21.48.04:926][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-21.48.04:978][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.48.04:980][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-21.48.04:990][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.12.06-21.48.05:148][983]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.12.06-21.48.18:310][566]BlueprintLog: New page: Compile SaveGameObject
+[2021.12.06-21.48.18:375][566]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.12.06-21.48.19:158][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SaveGameObject" FILE="../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset" SILENT=true
+[2021.12.06-21.48.19:162][601]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/SaveGameObject67B9A62B4DCC3C24201CE8A47721495B.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/SaveGameObject.uasset'
+[2021.12.06-21.48.19:199][601]AssetCheck: New page: Asset Save: SaveGameObject
+[2021.12.06-21.48.19:199][601]LogContentValidation: Display: Validating Blueprint /Game/SaveGameObject.SaveGameObject
+[2021.12.06-21.48.54:860][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2021.12.06-21.48.54:879][230]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Shop_Auto104C594E7440C4298A8F1108187A105AF.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/Autosaves/Game/ShopScreen/Shop_Auto1.umap'
+[2021.12.06-21.48.54:881][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ShopScreen/Shop' took 0.074
+[2021.12.06-21.48.54:881][230]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2021.12.06-21.49.01:649][297]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.49.01:665][297]LogSlate: Window 'Message Log' being destroyed
+[2021.12.06-21.49.02:755][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.06-21.49.02:769][356]LogSavePackage: Moving '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Saved/ShopACD606684640101597820189F9A0FBE2.tmp' to '../../../../../../Users/amand/Documents/Unreal Projects/Group62-FA21/Project/CS196/Content/ShopScreen/Shop.umap'
+[2021.12.06-21.49.02:803][356]AssetCheck: New page: Asset Save: Shop
+[2021.12.06-21.49.02:803][356]LogContentValidation: Display: Validating World /Game/ShopScreen/Shop.Shop
